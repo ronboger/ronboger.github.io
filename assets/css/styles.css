@@ -8,7 +8,8 @@
 */
 /* ======= Base ======= */
 body {
-  font-family: 'Lato', arial, sans-serif;
+  /*font-family: 'Lato', arial, sans-serif;*/
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   color: #434343;
   /*background: #BF6040;*/
   /*background: #AFDCE4;*/
@@ -26,7 +27,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 700;
   color: #778492;
 }
@@ -143,7 +145,8 @@ iframe {
 .header .profile-content .desc {
   /*color: #778492;*/
   color: white;
-  font-family: "Lato", arial, sans-serif;
+  /*font-family: "Lato", arial, sans-serif;*/
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 400;
   font-size: 24px;
   margin-top: 0;
@@ -254,7 +257,8 @@ iframe {
   overflow: hidden;
 }
 .latest .featured-image .ribbon .text {
-  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   position: relative;
   left: -8px;
   top: 18px;
@@ -372,7 +376,8 @@ iframe {
   color: #ccd1d6;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Lato", arial, sans-serif;
+  /*font-family: "Lato", arial, sans-serif;*/
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   position: absolute;
   right: 0;
   top: 0;
@@ -426,7 +431,8 @@ iframe {
   margin-top: 0;
 }
 .education .item .university {
-  font-family: "Lato", arial, sans-serif;
+  /*font-family: "Lato", arial, sans-serif;*/
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 13px;
   color: #999999;
   font-weight: 600;

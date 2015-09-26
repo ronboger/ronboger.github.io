@@ -14,7 +14,7 @@ body {
   /*background: #BF6040;*/
   /*background: #AFDCE4;*/
   /*background: #dae3e7;*/
-  background: #e4e4e4;
+  background: #efefef;
   /*background: #CF936E;*/
   /*background:#ffffaa;*/
   font-size: 16px;
@@ -126,7 +126,7 @@ iframe {
   /*background: #BF6040;*/
   /*background: #00611C; /*celtics*/
   background: #1E3C2A;
-  border-top: 10px solid #778492;
+  /*border-top: 10px solid #778492;*/
 }
 .header .btn {
   margin-top: 60px;

@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<!-- <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+</p> -->
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hey there! My name is Ron Boger. Currently I'm a master's student in Computer Science in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, where I also did my undergraduate studies in Biomedical Engineering and Mathematics. The focus of my research is unsupervised machine learning, particularly on sparse subspace clustering with missing entries.
 
-There are currently two themes built on Poole:
+In the past, I was a founder of [MedHacks](http://medhacks.org), a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano minor student at the Peabody Conservatory, among other things. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger) and my [Github](https://github.com/ronnyb29/). Feel free to contact me at ronnyb - at - jhu - dot - edu.

@@ -21,5 +21,5 @@ author:
 version:             1.0.0
 
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 2
 paginate_path: "page:num"

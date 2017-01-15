@@ -11,4 +11,4 @@ Hey there! My name is Ron Boger. Currently I'm a master's student in Computer Sc
 
 In the past, I was a founder of [MedHacks](http://medhacks.org), a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano minor student at the Peabody Conservatory, among other things. 
 
-More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger) and my [Github](https://github.com/ronnyb29/). Feel free to contact me at ronnyb - at - jhu - dot - edu.
+More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), my [projects](/projects), and my [Github](https://github.com/ronnyb29/). Feel free to contact me at ronnyb - at - jhu - dot - edu.

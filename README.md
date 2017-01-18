@@ -1,3 +1,3 @@
-# ronnyb29.github.io
+# My personal site
 
-Just to have a nicer way to keep track of what I've done.
+Using Lanyon, an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.

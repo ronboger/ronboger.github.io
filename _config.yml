@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Ron Boger
+# tagline:             'The personal site of Ron Boger'
+tagline:             'personal site + musings'
+description:         'Writings, thoughts, projects, etc.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Ron Boger
+  url:               https://ronboger.me
+  email:             ronnyb@jhu.edu
+
+# Custom vars
+version:             1.0.0
+
+gems: [jekyll-paginate]
+paginate: 2
+paginate_path: "page:num"

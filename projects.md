@@ -23,10 +23,9 @@ Starting Fall 2016, I began as a piano minor at the Peabody Conservatory at the 
 
 ## Flapp
 
-<!-- Main flapp image -->
-<img class="img-responsive project-image" src="../assets/images/projects/flapp.jpg" alt="flapp"/>
+<img class="img-responsive project-image" src="../assets/images/projects/flapp.png" alt="flapp"/>
 
-As part of my Biomedical Engineering Design Team, I cofounded <a href="">flapp</a>, a mobile application for 3D local soft-tissue flap Design for facial reconstructive surgery. Flapp established collaborations with the Johns Hopkins School of Medicine and Center for Bioengineering Innovation and Design. Further, we won several honors and grants: Finalist for JHU Business Plan Competition, inHealth Shark Tank, and the Dr. Andrew Malinow Bridge Funding Award.
+As part of my Biomedical Engineering Design Team, I cofounded <a href="http://dt5.github.io/">flapp</a>, a mobile application for 3D local soft-tissue flap Design for facial reconstructive surgery. Flapp established collaborations with the Johns Hopkins School of Medicine and Center for Bioengineering Innovation and Design. Further, we won several honors and grants: Finalist for JHU Business Plan Competition, inHealth Shark Tank, and the Dr. Andrew Malinow Bridge Funding Award.
 
 ---
 
@@ -42,16 +41,11 @@ I founded and led the creation of the first <a href="http://medhacks.org">MedHac
 
 ## StrollSafe
 
-<!-- Image of us with our beats -->
 <img class="img-responsive project-image" src="../assets/images/projects/strollsafe.jpg" alt="strollsafe"/>
 
-Winning the Comcast EveryBlock API prize, StrollSafe is an app all about contextual maps. 
-<!-- Devpost writing -->
+Winning the Comcast EveryBlock API prize, StrollSafe is an app all about contextual maps. Strollsafe releases location-based crime reports for people out walking. Using OpenDataPhilly and EveryBlock info, the app overlays crime data onto a standard map. 
 
-I helped develop the Android front-end and backend ranking algorithm using OpenDataPhilly and EveryBlock data. Check out our submission on <a href="">Devpost</a> and our <a href="">press</a>.
-
-Technologies used: Android, Node.js, Google Maps API, Photoshop.
-
+I helped develop the Android front-end and backend ranking algorithm using OpenDataPhilly and EveryBlock data. Check out our submission on <a href="https://devpost.com/software/strollsafe">Devpost</a> and our <a href="http://technical.ly/baltimore/2015/09/09/heres-project-jhu-students-took-home-top-prize-pennapps/">press</a>.
 
 ---
 
@@ -61,8 +55,6 @@ Technologies used: Android, Node.js, Google Maps API, Photoshop.
 
 Worked with a classmate in Computer Vision course to colorize Sergei Mikhailovich Prokudin-Gorskii’s black and white images of the Russian empire. Gorskii took 3 shots of each scene - one with a Blue filter in front of the camera, one with a Green filter, and one with a Red filter. Our solution used SIFT descriptors to define homographies between the 3 sub-images and merge them together in mosaic-like fashion.
 
-Technologies used: MATLAB.
-
 ---
 
 ## Dash
@@ -71,6 +63,4 @@ Technologies used: MATLAB.
 
 Placing as the top JHU team and 3rd overall at Hophacks Spring 2015, Dash is an incentive based fitness app that allows users to competitively race their friends. Users can schedule their races within the Dash interface, which allows them to set an endpoint and the amount each competitor must wager to enter the race. It's simple: first person to reach the end marker wins the prize. We wanted to revolutionize the way people think about fitness, and Dash provides motivation and childlike wonder to running again. Along with being a primary developer on the project, I designed the entire UI/UX.
 Check out our submission on <a href="http://challengepost.com/software/dash-3nb0n">DevPost</a> and our presentation on <a href="http://youtu.be/gSPnXP_eHsE?t=1h8m45s">YouTube</a>.
-
-Technologies used: Android SDK, Java, XML, Javascript, Node.js, Venmo API, Google Maps API, Photoshop.
 

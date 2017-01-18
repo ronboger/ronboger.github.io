@@ -3,16 +3,28 @@ layout: page
 title: Projects
 ---
 
-<!-- <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-
- -->
-
 ## Sparse Subspace Clustering with Missing Entries
+
+<img class="img-responsive project-image" src="../assets/images/projects/ssc_missing_entries.png" alt="SSC"/>
+
+My master's project is Sparse Subspace Clustering with Missing Entries, particularly determining under what conditions can we theoretically attain a subspace sparse recovery. This project has involved developing new algorithms and theory on Sparse Subspace Clustering.
 
 ---
 
 ## Piano Performance
+
+Starting Fall 2016, I began as a piano minor at the Peabody Conservatory at the Johns Hopkins University. For Fall 2016, I learned:
+- Chopin Etude Op. 10 No. 5
+- Beethoven Sonata No. 18
+
+---
+
+## Flapp
+
+<!-- Main flapp image -->
+<img class="img-responsive project-image" src="../assets/images/projects/flapp.jpg" alt="flapp"/>
+
+As part of my Biomedical Engineering Design Team, I cofounded <a href="">flapp</a>, a mobile application for 3D local soft-tissue flap Design for facial reconstructive surgery. Flapp established collaborations with the Johns Hopkins School of Medicine and Center for Bioengineering Innovation and Design. Further, we won several honors and grants: Finalist for JHU Business Plan Competition, inHealth Shark Tank, and the Dr. Andrew Malinow Bridge Funding Award.
 
 ---
 
@@ -22,11 +34,22 @@ title: Projects
 
 What if the most creative minds channeled their focus into solving the most impactful problems of today? Imagine if we could apply the ingenuity that powers the most profound technology into the most fundamental of all human concerns: health. MedHacks is the start.
                                    
-At MedHacks 2015, we're selecting the top innovative technologists, scientists, medical professionals, and engineers to build amazing things together. Hackers across all disciplines will unite to meet with the experts in every part of the medical field here at Johns Hopkins to develop their solutions to healthcare problems across the globe. At the end of the event, teams will have the opportunity to present their projects. Winners will be chosen by a board of judges.    
+I founded and led the creation of the first <a href="http://medhacks.org">MedHacks</a>, and currently advise as executive chairman. MedHacks 1.0 attracted over 400 participants from 25 universities and 3 countries to hack health Oct 2-4, 2015. Due to our success, I was invited to speak at Hackcon IV and gave talk on digital health and medtech innovation. Now in its third year of existence, MedHacks has established relationships with numerous incubators, tech companies, academics centers, and VC firms.
                                    
 ---
 
 ## StrollSafe
+
+<!-- Image of us with our beats -->
+<img class="img-responsive project-image" src="../assets/images/projects/strollsafe.jpg" alt="strollsafe"/>
+
+Winning the Comcast EveryBlock API prize, StrollSafe is an app all about contextual maps. 
+<!-- Devpost writing -->
+
+I helped develop the Android front-end and backend ranking algorithm using OpenDataPhilly and EveryBlock data. Check out our submission on <a href="">Devpost</a> and our <a href="">press</a>.
+
+Technologies used: Android, Node.js, Google Maps API, Photoshop
+
 
 ---
 
@@ -45,7 +68,7 @@ Technologies used: MATLAB
 <img class="img-responsive project-image" src="../assets/images/projects/dash.jpg" alt="Dash"/>
 
 Placing as the top JHU team and 3rd overall at Hophacks Spring 2015, Dash is an incentive based fitness app that allows users to competitively race their friends. Users can schedule their races within the Dash interface, which allows them to set an endpoint and the amount each competitor must wager to enter the race. It's simple: first person to reach the end marker wins the prize. We wanted to revolutionize the way people think about fitness, and Dash provides motivation and childlike wonder to running again. Along with being a primary developer on the project, I designed the entire UI/UX.
-Check out our submission on <a href="http://challengepost.com/software/dash-3nb0n">ChallengePost</a> and our presentation on <a href="http://youtu.be/gSPnXP_eHsE?t=1h8m45s">YouTube</a>
+Check out our submission on <a href="http://challengepost.com/software/dash-3nb0n">DevPost</a> and our presentation on <a href="http://youtu.be/gSPnXP_eHsE?t=1h8m45s">YouTube</a>
 
 Technologies used: Android SDK, Java, XML, Javascript, Node.js, Venmo API, Google Maps API, Photoshop
 

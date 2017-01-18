@@ -13,9 +13,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ron Boger
+  url:               https://ronboger.me
+  email:             ronnyb@jhu.edu
 
 # Custom vars
 version:             1.0.0

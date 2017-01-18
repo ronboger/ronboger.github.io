@@ -13,6 +13,8 @@ My master's project is Sparse Subspace Clustering with Missing Entries, particul
 
 ## Piano Performance
 
+<!-- Piano video iframe -->
+
 Starting Fall 2016, I began as a piano minor at the Peabody Conservatory at the Johns Hopkins University. For Fall 2016, I learned:
 - Chopin Etude Op. 10 No. 5
 - Beethoven Sonata No. 18
@@ -34,7 +36,7 @@ As part of my Biomedical Engineering Design Team, I cofounded <a href="">flapp</
 
 What if the most creative minds channeled their focus into solving the most impactful problems of today? Imagine if we could apply the ingenuity that powers the most profound technology into the most fundamental of all human concerns: health. MedHacks is the start.
                                    
-I founded and led the creation of the first <a href="http://medhacks.org">MedHacks</a>, and currently advise as executive chairman. MedHacks 1.0 attracted over 400 participants from 25 universities and 3 countries to hack health Oct 2-4, 2015. Due to our success, I was invited to speak at Hackcon IV and gave talk on digital health and medtech innovation. Now in its third year of existence, MedHacks has established relationships with numerous incubators, tech companies, academics centers, and VC firms.
+I founded and led the creation of the first <a href="http://medhacks.org">MedHacks</a>, and currently advise as executive chairman. MedHacks 1.0 attracted over 400 participants from 25 universities and 3 countries to hack health Oct 2-4, 2015. Due to our success, I was invited to speak at Hackcon IV and gave talk on digital health and medtech innovation. Now in its third year of existence, MedHacks has established relationships with numerous incubators, tech companies, academics centers, and VC firms. We're always looking for great organizations to partner with - if you'd like to get in touch shoot me an email at <a href="mailto:ron@medhacks.org">ron@medhacks.org</a> :).
                                    
 ---
 
@@ -48,7 +50,7 @@ Winning the Comcast EveryBlock API prize, StrollSafe is an app all about context
 
 I helped develop the Android front-end and backend ranking algorithm using OpenDataPhilly and EveryBlock data. Check out our submission on <a href="">Devpost</a> and our <a href="">press</a>.
 
-Technologies used: Android, Node.js, Google Maps API, Photoshop
+Technologies used: Android, Node.js, Google Maps API, Photoshop.
 
 
 ---
@@ -59,7 +61,7 @@ Technologies used: Android, Node.js, Google Maps API, Photoshop
 
 Worked with a classmate in Computer Vision course to colorize Sergei Mikhailovich Prokudin-Gorskii’s black and white images of the Russian empire. Gorskii took 3 shots of each scene - one with a Blue filter in front of the camera, one with a Green filter, and one with a Red filter. Our solution used SIFT descriptors to define homographies between the 3 sub-images and merge them together in mosaic-like fashion.
 
-Technologies used: MATLAB
+Technologies used: MATLAB.
 
 ---
 
@@ -68,7 +70,7 @@ Technologies used: MATLAB
 <img class="img-responsive project-image" src="../assets/images/projects/dash.jpg" alt="Dash"/>
 
 Placing as the top JHU team and 3rd overall at Hophacks Spring 2015, Dash is an incentive based fitness app that allows users to competitively race their friends. Users can schedule their races within the Dash interface, which allows them to set an endpoint and the amount each competitor must wager to enter the race. It's simple: first person to reach the end marker wins the prize. We wanted to revolutionize the way people think about fitness, and Dash provides motivation and childlike wonder to running again. Along with being a primary developer on the project, I designed the entire UI/UX.
-Check out our submission on <a href="http://challengepost.com/software/dash-3nb0n">DevPost</a> and our presentation on <a href="http://youtu.be/gSPnXP_eHsE?t=1h8m45s">YouTube</a>
+Check out our submission on <a href="http://challengepost.com/software/dash-3nb0n">DevPost</a> and our presentation on <a href="http://youtu.be/gSPnXP_eHsE?t=1h8m45s">YouTube</a>.
 
-Technologies used: Android SDK, Java, XML, Javascript, Node.js, Venmo API, Google Maps API, Photoshop
+Technologies used: Android SDK, Java, XML, Javascript, Node.js, Venmo API, Google Maps API, Photoshop.
 

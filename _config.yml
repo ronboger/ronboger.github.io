@@ -5,7 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               Ron Boger
-tagline:             'The personal site of Ron Boger'
+# tagline:             'The personal site of Ron Boger'
+tagline:             'personal site + musings'
 description:         'Writings, thoughts, projects, etc.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''

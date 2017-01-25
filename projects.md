@@ -57,6 +57,8 @@ I helped develop the Android front-end and backend ranking algorithm using OpenD
 
 Worked with a classmate in Computer Vision course to colorize Sergei Mikhailovich Prokudin-Gorskii’s black and white images of the Russian empire. Gorskii took 3 shots of each scene - one with a Blue filter in front of the camera, one with a Green filter, and one with a Red filter. Our solution used SIFT descriptors to define homographies between the 3 sub-images and merge them together in mosaic-like fashion.
 
+Further information (code, images, and report) available on <a href="https://github.com/ronnyb29/computer-vision-3-image-colorize">Github.</a>
+
 ---
 
 ## Dash

@@ -16,9 +16,14 @@ My master's project is Sparse Subspace Clustering with Missing Entries, particul
 <!-- Piano video iframe -->
 <!-- Musical theatre stuff? -->
 
-Starting Fall 2016, I began as a piano minor at the Peabody Conservatory at the Johns Hopkins University. For Fall 2016, I learned:
+Starting Fall 2016, I began as a piano minor at the Peabody Conservatory at the Johns Hopkins University. I learned and performed:
 - Chopin Etude Op. 10 No. 5
 - Beethoven Sonata No. 18
+- Debussy Prelude No. 5 Book 1: Les Collines d'Ancapri
+- Bach French Suite No. 5
+
+Video recording of one of my performances during Spring 2017:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0ooarKfAZY" frameborder="0" allowfullscreen></iframe>
 
 
 ---

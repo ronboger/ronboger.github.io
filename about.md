@@ -7,7 +7,7 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p> -->
 
-Hey there! My name is Ron Boger. Currently I'm a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University. I completed my Master's studies in Computer Science at Johns Hopkins University in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics. The focus of my research is unsupervised machine learning, particularly at the intersection of subspace clustering and compressed sensing.
+Hey there! My name is Ron Boger. Currently I'm a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University. My research focuses primarily on methods for unsupervised machine learning, particularly at the intersection of subspace clustering and compressed sensing. I completed my Master's studies in Computer Science at Johns Hopkins University in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics. 
 
 <!-- My research interests include non-convex optimization, sparsity, compressed sensing, deep learning, subspace clustering -->
 

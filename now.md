@@ -3,6 +3,8 @@ layout: page
 title: Now
 ---
 
+# What I’m doing now
+
 I'm traveling and working on a few projects. The general direction of my travels is east; one might call this "the long way" back to California. I'm especially looking to meet introspective, curious, and kind people on my journey. If you know or are one of these, reach out at ronnyb - at - jhu - dot - edu.
 
 Among these projects is an expansion of the machine learning research I was doing for my Masters during my time at JHU. More on this can be found via my [projects](../projects) page.

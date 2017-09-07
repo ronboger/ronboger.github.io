@@ -1,0 +1,8 @@
+- name:  The Alchemist
+  url:   /booksRead/alchemist
+  descr: A font family for highly legible text on computer screens
+  dateFinished: 2017-09-07
+
+- name:  FFysics
+  url:   /fun/ffysics
+  descr: Fun little physics simulation with the Figma icon

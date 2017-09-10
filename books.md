@@ -13,7 +13,7 @@ Below is a collection of notes on some books I've read and a list of my favorite
 
 Criteria for non-fiction to be a favorite: must be incredibly thought provoking and perhaps change how I view a core belief. For fiction: must cover non-fiction criteria and provoke significant emotion. My favorites, under this criteria, are as follows:
 
-- [Siddhartha](http://amzn.to/2eNQyxw), [Demian](http://amzn.to/2gTqchR) - Herman Hesse
+- [Siddhartha](http://amzn.to/2eNQyxw), [Demian](http://amzn.to/2gTqchR) - Herman Hesse. His other books are great too, but progressively more weird.
 - [The Alchemist](http://amzn.to/2jdYRHW) - Paulo Coelho
 - [The Power of Now](http://amzn.to/2gTmOUq) - Eckhart Tolle
 - [Meditations](http://amzn.to/2wPJpaL) - Marcus Aurelius

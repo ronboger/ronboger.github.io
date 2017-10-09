@@ -4,6 +4,6 @@ layout: default
 
 <div class="bookPost">
   <h1 class="bookPost-title">{{ page.title }}</h1>
-  <span class="bookPost-date">{{ page.dateFinished}}</span>
+  <span class="bookPost-date">{{ page.dateFinished | date_to_string }}</span>
   {{ content }}
 </div>

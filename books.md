@@ -7,7 +7,11 @@ title: Books
   * {{ bookPost.date | date_to_string }} &raquo; [ {{ bookPost.title }} ]({{ bookPost.url }})
 {% endfor %} -->
 
-Below is a collection of notes on some books I've read and a list of my favorites. I began to heavily annotate books sometime during summer of 2017. I have a strong preference for reading fiction, but rarely take notes on them. Short summary but detailed notes for each. Think of this as an online [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book). This page will constantly update as I read more.
+Below is a collection of notes on some books I've read and a list of my favorites. I began to heavily annotate books sometime during summer of 2017. 
+
+I have a strong preference for reading fiction. I see myself in a creative, generative, and artistic light, and therefore see more value in reading creative, generative, and artistic stories. Having said this, I rarely take notes on fiction. 
+
+Short summary but detailed notes for each. Think of this as an online [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book). This page will constantly update as I read more.
 
 ## Favorites
 

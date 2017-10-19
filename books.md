@@ -16,9 +16,10 @@ Short summary but detailed notes for each. Think of this as an online [commonpla
 ## Book notes
 
 Currently, no notes are posted. Stay tuned :)
-<!-- {% for project in site.data.books %}
-   <a href="{{ project.url }}">{{ project.name }}</a> — {{ project.descr}}
-{% endfor %} -->
+
+<!-- {% for project in site.data.books %} -->
+   <!-- <a href="{{ project.url }}">{{ project.name }}</a> — {{ project.descr}} -->
+<!-- {% endfor %} -->
 
 ## Favorites
 

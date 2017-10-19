@@ -45,6 +45,7 @@ A few, broader favorites from the past few years:
 - [The Power of Now](http://amzn.to/2gTmOUq) - Eckhart Tolle
 - [Shoe Dog](http://amzn.to/2xRc9B9) - Phil Knight
 - [The Inside Scoop](http://amzn.to/2xQfRpM) - Tal Boger. Extremely proud of my younger brother for writing and publishing a book on his passion for investing. 
+- [The Seven Principles for Making Marriage Work](http://amzn.to/2gtUGr1) - John Gottman
 
 #### 2016
 - [Being Mortal](http://amzn.to/2yzFQFs) - Atul Gawande

@@ -40,7 +40,7 @@ Many other books I've read are quite good. My rating for them can be found on my
 A few, broader favorites from the past few years:
 
 #### 2017
-- [El Principito](http://amzn.to/2zm83gA) - . I speak Spanish fluenty - this was one of the first books I read upon arriving to Argentina.
+- [El Principito](http://amzn.to/2zm83gA) - Antoine de Saint-Exupéry. I speak Spanish fluenty - this was one of the first books I read upon arriving to Argentina.
 - [The Alchemist](http://amzn.to/2jdYRHW) - Paulo Coelho
 - [The Power of Now](http://amzn.to/2gTmOUq) - Eckhart Tolle
 - [Shoe Dog](http://amzn.to/2xRc9B9) - Phil Knight

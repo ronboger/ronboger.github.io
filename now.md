@@ -11,9 +11,9 @@ I'm traveling and working on a few projects. A few days ago I left the city of B
 
 ![](/_data/photos/patagonia2.jpg) -->
 
-<img src="./public/photos/patagonia1.jpg">
+<img src="../public/photos/patagonia1.jpg">
 
-<img src="./public/photos/patagonia2.jpg">
+<img src="../public/photos/patagonia2.jpg">
 
 It's hard to believe I arrived to this country over a month and a half ago. When I arrived, I knew almost no one, barely spoke the language, and only knew small bits about the culture. Since then, everything has changed. I've made a ton of new friends, who by now say I'm completely "porteño". I learned to speak the language with complete fluency, to the point where I was recently complimented by two Chileans who after an hour of chatting were convinced I was from Buenos Aires. Learning to speak a new language well in itself has been an incredibly humbling experience, as basically anyone I'd normally interact with was instantly "smarter" as soon as words came out. I've really experienced the culture by now - how open and spontaneous Argentinians can be, how to spend hours at an asado, how to be extremely egotistical and simultaneously self-deprecating, how to complain about what a quilombo (mess) Buenos Aires is with its lleno de gente subte (crowded metro) and lack of green area in the city, just to name a few things. I also did a 10-day Vipassana meditation retreat in the province of Buenos Aires which was an enlightening experience - hopefully I'll have time to write about this as well :).
 

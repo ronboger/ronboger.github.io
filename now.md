@@ -22,19 +22,3 @@ Of course, not every moment has been pleasant or fun. Like any nation, Argentina
 The general direction of my travels is northwest; one might call this "the long way" back to San Francisco, California. I'm especially looking to meet introspective, curious, and kind people on my journey. If you know or are one of these, reach out at ronnyb - at - jhu - dot - edu.
 
 *This update was written Nov 20th, 2017. Previous posts can be found below:*
-
-<section class="archive-post-list">
-
-   {% for post in site.nowArchives %}
-       {% assign currentDate = post.date | date: "%Y" %}
-       {% if currentDate != myDate %}
-           {% unless forloop.first %}</ul>{% endunless %}
-           <h2>{{ currentDate }}</h2>
-           <ul>
-           {% assign myDate = currentDate %}
-       {% endif %}
-       <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
-       {% if forloop.last %}</ul>{% endif %}
-   {% endfor %}
-
-</section>

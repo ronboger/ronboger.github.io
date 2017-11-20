@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Past
-<!-- published: false -->
+published: false
 ---
 
 ## Now pages of the past

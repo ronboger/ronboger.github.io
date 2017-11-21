@@ -17,4 +17,6 @@ Of course, not every moment has been pleasant or fun. Like any nation, Argentina
 
 The general direction of my travels is northwest; one might call this "the long way" back to San Francisco, California. I'm especially looking to meet introspective, curious, and kind people on my journey. If you know or are one of these, reach out at ronnyb - at - jhu - dot - edu.
 
-*This update was written Nov 20th, 2017. Previous posts can be found below:*
+*This update was written Nov 20th, 2017.*
+
+<!-- *This update was written Nov 20th, 2017. Previous posts can be found below:* -->

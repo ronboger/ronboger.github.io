@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+{% if paginator.page == 1 %}
 <h2 class="index-heading">About</h2>
 
 I’ve been identified as a scientist, engineer, artist, and many other things. Currently, I'm working on a few projects at the intersection of machine learning and health while traveling. 
@@ -12,6 +12,7 @@ To see more of my now, click <a href="/now">here</a>.
 To see more about the past, click <a href="/about">here</a>.
 
 <h2 class="index-heading">Blog</h2>
+{% endif %}
 
 <div class="posts">
   {% for post in paginator.posts %}

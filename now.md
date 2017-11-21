@@ -7,10 +7,6 @@ title: Now
 
 I'm traveling and working on a few projects. A few days ago I left the city of Buenos Aires, and am now currently in the beautiful city of San Carlos de Bariloche in the Patagonia region in Argentina. My first time seeing the Patagonia in the daylight I almost cried - this is the most beautiful landscape I have ever seen. Here are two photos to show what I mean. You walk around and everything looks like this:
 
-<!-- ![](/_data/photos/patagonia1.jpg)
-
-![](/_data/photos/patagonia2.jpg) -->
-
 <img src="../public/photos/patagonia1.jpg">
 
 <img src="../public/photos/patagonia2.jpg">

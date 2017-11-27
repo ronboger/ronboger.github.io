@@ -15,9 +15,14 @@ Obviously, there's room for growth here. Nonetheless, I think and speak in Spani
 
 ## For monolingual speakers
 
+- Afterwards, don't translate.
+- Be super interested in the cutlure. This can't be overstated.
+- On this note, listen to music in the language. You'll get the accent better, etc. Spanish has a ton of different music, from cumbia to reggaeton to bachata to salsa.
+
+
 ## Additions for bilingual speakers
 
-I grew up in a Hebrew speaking household
+I grew up in a Hebrew speaking household in the US.
 
 ![Map of where languages originated from](../public/photos/engspis.png)
 

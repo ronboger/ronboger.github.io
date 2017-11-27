@@ -19,6 +19,8 @@ Obviously, there's room for growth here. Nonetheless, I think and speak in Spani
 
 I grew up in a Hebrew speaking household
 
+![Map of where languages originated from](../public/photos/engspis.png)
+
 tengo ganas =
 ya = כבר
 In English, the concept of "ya" is a bit complicated to explain. Take these three sentences as an example:

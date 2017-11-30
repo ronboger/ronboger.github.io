@@ -29,6 +29,10 @@ This is a key point. **You should avoid translating at all costs**. Instead, see
 
 Assuming you're reading this, you likely speak English at a very high level. Congratulate yourself! English is one of the most spoken and most useful languages in the world. Furthermore, you also speak a language of Anglo-Saxon and Latin roots, which makes it particularly easy to learn European languages. This is a huge advantage - you didn't have this as a baby! For instance, you can instantly know that "resentimiento" in Spanish means resentment, without needing to go through the years of grade school Spanish education. This is your advantage to learning even faster.
 
+---------------------
+continue below next time...
+---------------
+
 You had a few advantages as a baby.
 Not thinking at all, silence the mind.
 Plasticity of the mind.
@@ -61,7 +65,7 @@ In English, the concept of "ya" is a bit complicated to explain. Take these thre
 
 Translating these directly into English causes immediate problems. In the first sentence, "ya" means "already"; in the second, "ya" means "anymore"; in the third, "ya" means "soon". In Hebrew, on the contrary, "ya" is exactly the word "כבר" in these common contexts.
 
-## What I did
+## What I did + resources
 
 - Watch Naruto in Spanish
 - Language exchange with Lawrence

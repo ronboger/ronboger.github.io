@@ -15,7 +15,7 @@ To preface, there are of course different levels of fluency. As it turns out, ev
 
 Obviously, there's room where I can grow. Nonetheless, I think and speak in Spanish effortlessly, and the method to do so is what I hope to distill in this post.
 
-## For everyone
+## The theory for everyone
 
 Try to remember when you first learned your first language. Do you find it hard to remember exactly how you initially learned? Very well. Try to remember how you learned in grade school. Perhaps the first time you learned that "will not" isn't abbreviated as "willn't" but rather as "won't"? Or even in middle school, where you learned to use more advanced words, craft paragraphs, and the like.
 
@@ -29,18 +29,22 @@ This is a key point. **You should avoid translating at all costs**. Instead, see
 
 Assuming you're reading this, you likely speak English at a very high level. Congratulate yourself! English is one of the most spoken and most useful languages in the world. Furthermore, you also speak a language of Anglo-Saxon and Latin roots, which makes it particularly easy to learn European languages. This is a huge advantage - you didn't have this as a baby! For instance, you can instantly know that "resentimiento" in Spanish means resentment, without needing to go through the years of grade school Spanish education. This is your advantage to learning even faster.
 
+Now, you did a few advantages as a baby. You weren't really thinking at all in words and had mental silence. Research shows the incredible neural plasticity of babies. You had in a sense infinite time due to a lack of responsibility and more patience. And more than anything you had the necessity and desire to communicate.
+
+While you can't unfortunately regain the neural plasticity you had when you were a baby, you can simulate everything else. **Learn to listen or shut off the voice in your head.** This can also be trained by meditation. Learn to have patience with your studies. In the anthropological community, it's common for anthropologists to go to a new area with an unwritten tribal language and become fluent in it. If you move somewhere where you don't speak the language and **have an intense interest in communicating with others**, you're chance of success will increase substantially.
+
+^^ elaborate more in this paragraph
+
 ---------------------
 continue below next time...
 ---------------
 
-You had a few advantages as a baby.
-Not thinking at all, silence the mind.
-Plasticity of the mind.
-Time and patience.
-Necessity and desire to communicate.
+In summary
 
-- Build a base as fast as possible. This can be done fairly well with children's movies, Duolingo, classes, c
+- Build a base as fast as possible. This can be done fairly well with children's movies - think Dora the Explorer or what you watched as a kid, but make it **as compelling and interesting as possible**. These shows are especially good, as they're inherently immersive and take a long time. Duolingo, classes, can also be effective in building a base as long as you aren't treating it like a class.
 - Afterwards, don't translate.
+- always be thinking about the language if you're thinking at all
+- reread things you've read before in a new language
 - Be super interested in the cutlure. This can't be overstated. Have a necessity to speak.
 - On this note, listen to music in the language. You'll get the accent better, etc. Spanish has a ton of different music, from cumbia to reggaeton to bachata to salsa.
 
@@ -49,25 +53,30 @@ Necessity and desire to communicate.
 
 I grew up in a Hebrew speaking household in the US. As such, I've spoken both languages fluently since I was young. You may have something similar if you're reading this section - perhaps one parent is from a different country, perhaps you took French courses since your youth, etc.
 
-What you don't know is that as a result, you have an increased facility for language learning.
+What you don't know is that as a result, you have an increased facility for language learning. This isn't just because "you've done it before".
 
-When I first started learning Spanish,
+When I first started learning Spanish, I chose to initially think of it as a mix of Hebrew (grammar, accent) and English. I thought this approach could be sensible due to the map below - Spain is sort of in between Israel and England, where Hebrew and English emerged.
 
 ![Map of where languages originated from](../public/photos/engspis.png)
 
-There's perhaps
 
-ya = כבר
-In English, the concept of "ya" is a bit complicated to explain. Take these three sentences as an example:
+
+There's perhaps some more logic to this, as Arabic influenced both Hebrew (due to proximity) and Spanish (due to the Moorish period). If I had to absolutely had to translate a word, I'd make sure to always translate into Hebrew, my less dominant language.
+I figured eventually I'd mentally separate Spanish from the two in my mind, and
+**Some point on how Hindi speakers can speak Urdu**
+
+If you speak another language,
+
+Take for instance the word "ya" in Spanish. In English, the concept of "ya" is a bit complicated to explain. Take these three sentences as an example:
 - Ya fui al supermercado - I already went to the supermarket.
-- [Ya no sé que hacer conmigo]() - I don't know what to do with myself anymore. (This is also the name great song by Uruguayan band Cuarteto de nos)
+- [Ya no sé qué hacer conmigo]() - I don't know what to do with myself anymore. (This is also the name great song by Uruguayan band Cuarteto de nos)
 - Ya vuelvo - I return soon.
 
 Translating these directly into English causes immediate problems. In the first sentence, "ya" means "already"; in the second, "ya" means "anymore"; in the third, "ya" means "soon". In Hebrew, on the contrary, "ya" is exactly the word "כבר" in these common contexts.
 
-## What I did + resources
+## What I did + resources + suggestions
 
 - Watch Naruto in Spanish
 - Language exchange with Lawrence
 - Listen to a lot of music in Spanish
-- Try to talk to everyone in Argentina (works best in non-touristy areas)
+- Try to talk to everyone in Argentina (works best in non-touristy areas). To me, I was (and still am) with the culture and language in Argentina. Hence, every opportunity speaking to someone was an opportunity to learn more. People at stores. Bus drivers. Store owners. If you really make an effort to try to know them and speak their language, they notice.

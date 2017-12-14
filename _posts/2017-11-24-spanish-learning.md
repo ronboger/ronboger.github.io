@@ -44,8 +44,9 @@ In summary
 - Build a base as fast as possible. This can be done fairly well with children's movies - think Dora the Explorer or what you watched as a kid, but make it **as compelling and interesting as possible**. These shows are especially good, as they're inherently immersive and take a long time. Duolingo, classes, can also be effective in building a base as long as you aren't treating it like a class.
 - Afterwards, don't translate.
 - always be thinking about the language if you're thinking at all
+- Ask questions. People will notice if you really want to learn to interact with them and will gladly teach you.
 - reread things you've read before in a new language
-- Be super interested in the cutlure. This can't be overstated. Have a necessity to speak.
+- Be super interested in the culture. This can't be overstated. Have a necessity to speak.
 - On this note, listen to music in the language. You'll get the accent better, etc. Spanish has a ton of different music, from cumbia to reggaeton to bachata to salsa.
 
 

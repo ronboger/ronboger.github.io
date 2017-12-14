@@ -5,17 +5,19 @@ title: Now
 
 ## What I’m doing now
 
-I'm traveling and working on a few projects. A few days ago I left the city of Buenos Aires, and am now currently in the beautiful city of San Carlos de Bariloche in the Patagonia region in Argentina. My first time seeing the Patagonia in the daylight I almost cried - this is the most beautiful landscape I have ever seen. Here are two photos to show what I mean. You walk around and everything looks like this:
+I returned from the Patagonia to San Francisco a few days ago to work on my AI for cancer drug discovery startup, for which we're currently fundraising.
 
-<img src="../public/photos/patagonia1.jpg">
+I've had a bit of a culture shock coming back to San Francisco. Everyone speaks English and not Spanish here (although out of habit I speak in Spanish at the Mexican restaurants and supermarkets). Prices are substantially higher - I paid more in dollars for the CalTrain than I did in pesos for the trains in Argentina. Hitchhiking doesn't seem to be in style here like it is in the Patagonia. The streets are relatively clean and not lined with dog poop; likewise, the night sky is relatively foggy and not lined with stars. Cafes are lined with engineers with the latest Apple products and business people conducting business-y meetings, rather than people meeting for coffee.
 
-<img src="../public/photos/patagonia2.jpg">
+The sun goes down at 5PM and not at 10PM. The winter in San Francisco feels exactly like the summer.
 
-It's hard to believe I arrived to this country over a month and a half ago. When I arrived, I knew almost no one, barely spoke the language, and only knew small bits about the culture. Since then, everything has changed. I've made a ton of new friends, who by now say I'm completely "porteño". I learned to speak the language with complete fluency, to the point where I was recently complimented by two Chileans who after an hour of chatting were convinced I was from Buenos Aires. Learning to speak a new language well in itself has been an incredibly humbling experience, as basically anyone I'd normally interact with was instantly "smarter" as soon as words came out. I've really experienced the culture by now - how open and spontaneous Argentinians can be, how to spend hours at an asado, how to be extremely egotistical and simultaneously self-deprecating, how to complain about what a quilombo (mess) Buenos Aires is with its lleno de gente subte (crowded metro) and lack of green area in the city, just to name a few things. I also did a 10-day Vipassana meditation retreat in the province of Buenos Aires which was an enlightening experience - hopefully I'll have time to write about this as well :).
+People in the Bay Area don't seem to instantly talk about their personal lives upon meeting them. In fact, people don't seem to be talking about very much at all. Instead of opening up about how they actually are doing, San Franciscans seem to talk about their jobs.
 
-Of course, not every moment has been pleasant or fun. Like any nation, Argentina is plagued by it's own special issues. One of these is the import taxes on technology, which leads to an enormous number of phone robberies. Each one of my friends in Buenos Aires has been robbed of their phone at least once. In my last day in Buenos Aires, the same finally happened to me. This has In a way this is quite liberating, as I unfortunately adopted the habit that many have here of being on WhatsApp all the time. But the unpleasant moments, like the pleasant ones, also pass. Being here for enough time, I've realized I don't need to be tied down to the place or culture of San Francisco or Tel Aviv. Nor in that matter Buenos Aires or anywhere else in Argentina. This unfamiliar land has become familiar, and given a new "identity". Most importantly, another identity to remind me how really this idea of identity is just a demonstration of the ego; how really I am nothing more than here and now; how little us as humans know about our universe, our world, and ourselves.
+Similarly, it feels impossible to have a dissenting opinion here to the consensus. Most seem to speak as if they are brilliant yet it seems that very few of them are. It appears much of the magic of Silicon Valley has unfortunately, already left.
 
-The general direction of my travels is northwest; one might call this "the long way" back to San Francisco, California. I'm especially looking to meet introspective, curious, and kind people on my journey. If you know or are one of these, reach out at ronnyb - at - jhu - dot - edu.
+Of course, I'm as happy in San Francisco as I was in Argentina - it's just different. A few years ago Silicon Valley really called my attention, now I feel the lifestyle and interactions I'm more interested in lean more towards those I experienced in Argentina.
+
+I'm especially looking to meet introspective, curious, and kind people on my journey. If you know or are one of these, reach out at ronnyb - at - jhu - dot - edu.
 
 *This update was written Dec 14th, 2017.*
 

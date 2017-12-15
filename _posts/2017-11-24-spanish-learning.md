@@ -13,7 +13,7 @@ To preface, there are of course different levels of fluency. As it turns out, ev
 - Argentinians tend to think I'm European, usually someone from France/Brazil who learned Spanish with ease, or someone from another part of Europe who has Argentinian parents. I've met several English teachers in Argentina, who all found it easier to communicate with me in Spanish than in English.
 - The other day, I met two Chileans and hung out with them for a while. An hour in to our encounter, an Australian came and asked us a few questions in English. I answered, and was then complimented by two Chileans on how well I speak English, as they were convinced I was from Buenos Aires.
 
-Obviously, there's room where I can grow. Nonetheless, I think and speak in Spanish effortlessly, and the method to do so is what I hope to distill in this post.
+Obviously, there's room where I can grow. Nonetheless, I think and speak in Spanish effortlessly, and simply want to share my method.
 
 ## The theory for everyone
 
@@ -31,23 +31,21 @@ Assuming you're reading this, you likely speak English at a very high level. Con
 
 Now, you did a few advantages as a baby. You weren't really thinking at all in words and had mental silence. Research shows the incredible neural plasticity of babies. You had in a sense infinite time due to a lack of responsibility and more patience. And more than anything you had the necessity and desire to communicate.
 
-While you can't unfortunately regain the neural plasticity you had when you were a baby, you can simulate everything else. **Learn to listen or shut off the voice in your head.** This can also be trained by meditation. Learn to have patience with your studies. In the anthropological community, it's common for anthropologists to go to a new area with an unwritten tribal language and become fluent in it. If you move somewhere where you don't speak the language and **have an intense interest in communicating with others**, you're chance of success will increase substantially.
+While you can't unfortunately regain the neural plasticity you had when you were a baby, you can simulate everything else. **Learn to listen or shut off the voice in your head.** Once you do this, you can start really listening to the new language. Then you can start thinking and speaking. This can also be trained by meditation.
 
-^^ elaborate more in this paragraph
+Learn to have patience with your studies. Easier said than done, but **try to view language learning as something without a deadline**. Do a trip if you can, but if you can't, find fun native speakers.
 
----------------------
-continue below next time...
----------------
+In the anthropological community, it's common for anthropologists to go to a new area with an unwritten tribal language and become fluent in it. If you move somewhere where you don't speak the language and **have an intense interest in communicating with others**, your chance of success will increase substantially.
 
-In summary
+So in summary.
 
 - Build a base as fast as possible. This can be done fairly well with children's movies - think Dora the Explorer or what you watched as a kid, but make it **as compelling and interesting as possible**. These shows are especially good, as they're inherently immersive and take a long time. Duolingo, classes, can also be effective in building a base as long as you aren't treating it like a class.
 - Afterwards, don't translate.
 - always be thinking about the language if you're thinking at all
 - Ask questions. People will notice if you really want to learn to interact with them and will gladly teach you.
-- reread things you've read before in a new language
-- Be super interested in the culture. This can't be overstated. Have a necessity to speak.
-- On this note, listen to music in the language. You'll get the accent better, etc. Spanish has a ton of different music, from cumbia to reggaeton to bachata to salsa.
+- Reread things you've read before in a new language.
+- Be super interested in the culture. This can't be overstated. Have a necessity to speak. On this note, listen to music in the language. You'll get the accent better, etc. Spanish has a ton of different music, from cumbia to reggaeton to bachata to salsa.
+- Accept corrections, if you don't get corrected you don't improve :)
 
 
 ## Additions for bilingual speakers
@@ -56,28 +54,24 @@ I grew up in a Hebrew speaking household in the US. As such, I've spoken both la
 
 What you don't know is that as a result, you have an increased facility for language learning. This isn't just because "you've done it before".
 
-When I first started learning Spanish, I chose to initially think of it as a mix of Hebrew (grammar, accent) and English. I thought this approach could be sensible due to the map below - Spain is sort of in between Israel and England, where Hebrew and English emerged.
+When I first started learning Spanish, I chose to initially think of it as a mix of Hebrew (grammar, accent) and English (latin roots). I thought this approach could be sensible due to the map below - Spain is sort of in between Israel and England, where Hebrew and English emerged.
 
 ![Map of where languages originated from](../public/photos/engspis.png)
 
-
-
 There's perhaps some more logic to this, as Arabic influenced both Hebrew (due to proximity) and Spanish (due to the Moorish period). If I had to absolutely had to translate a word, I'd make sure to always translate into Hebrew, my less dominant language.
-I figured eventually I'd mentally separate Spanish from the two in my mind, and
-**Some point on how Hindi speakers can speak Urdu**
+I figured eventually I'd mentally separate Spanish from the two in my mind.
 
-If you speak another language,
-
-Take for instance the word "ya" in Spanish. In English, the concept of "ya" is a bit complicated to explain. Take these three sentences as an example:
+Although English + Hebrew doesn't allow you to instantly pick up Spanish the way Hindi speakers may pick up Urdu, knowing both gives you an improved base to build off of. Take for instance the word "ya" in Spanish. In English, the concept of "ya" is a bit complicated to explain. Take these three sentences as an example:
 - Ya fui al supermercado - I already went to the supermarket.
 - [Ya no sé qué hacer conmigo]() - I don't know what to do with myself anymore. (This is also the name great song by Uruguayan band Cuarteto de nos)
 - Ya vuelvo - I return soon.
 
-Translating these directly into English causes immediate problems. In the first sentence, "ya" means "already"; in the second, "ya" means "anymore"; in the third, "ya" means "soon". In Hebrew, on the contrary, "ya" is exactly the word "כבר" in these common contexts.
+Translating these directly into English causes immediate problems. In the first sentence, "ya" means "already"; in the second, "ya" means "anymore"; in the third, "ya" means "soon". In Hebrew, on the contrary, "ya" is exactly the word "כבר" in these common contexts. Or take the difference between "conocer" and "saber" which is confusing to explain in English but instantly translatable in English to "להכיר" and "לדעת". I'd be willing to this triangulation to a new language applies beyond just Spanish.
 
 ## What I did + resources + suggestions
 
-- Watch Naruto in Spanish
-- Language exchange with Lawrence
-- Listen to a lot of music in Spanish
+- Watch Naruto with Spanish subtitles/dubs when available. If I didn't understand a word I'd keep going in effort to subconsciously pick up new words - I already knew the context and general theme of Naruto.
+- Language exchange with a great friend and polyglot who was looking to learn Hebrew and already spoke fluent Spanish.
+- Listen to a lot of music in Spanish. Listening attentively and singing along slowly improved my pronunciation and accent.
 - Try to talk to everyone in Argentina (works best in non-touristy areas). To me, I was (and still am) with the culture and language in Argentina. Hence, every opportunity speaking to someone was an opportunity to learn more. People at stores. Bus drivers. Store owners. If you really make an effort to try to know them and speak their language, they notice.
+- Couchsurfing! With Couchsurfing I stayed in the homes of 10-20 people, each of whom not only showed me their culture but also were willing to correct me as I spoke to them in their native tongue.

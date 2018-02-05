@@ -3,12 +3,27 @@ layout: page
 title: About
 ---
 
-Hey there! My name is Ron Boger. I completed my Master's studies in Computer Science at [Johns Hopkins University](http://jhu.edu) in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics. 
+Hey there! My name is Ron Boger. I completed my Master's studies in Computer Science at [Johns Hopkins University](http://jhu.edu) in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics.
 
 <!-- Currently I'm a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University. My research focuses primarily on methods for unsupervised machine learning, particularly at the intersection of subspace clustering and compressed sensing. -->
 
 <!-- My research interests include non-convex optimization, sparsity, compressed sensing, deep learning, subspace clustering -->
 
-In the past, I was the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano minor student at the Peabody Conservatory, among other things. 
+In the past, I was the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano minor student at the Peabody Conservatory, among other things.
 
 More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), my [projects](/projects), my [Github](https://github.com/ronnyb29/), and my [Goodreads profile](https://www.goodreads.com/user/show/69825193-ron-boger). Feel free to contact me at ronnyb - at - jhu - dot - edu.
+
+## Timeline, for context:
+- 1995: Born in Tel Aviv, Israel
+- 1998: Moved to Baltimore, MD
+- 2001: Initial plans to move back to Tel Aviv were delayed
+- 2003: Started playing the piano, received first lesson on my 8th birthday
+- 2004: Last of Israeli friends in my neighborhood and school returned back to Israel
+- 2007: Started playing the guitar and singing
+- 2009: Worked as a neuroscience researcher at the Kennedy Krieger Institute at Johns Hopkins Hospital as a high school student. Realized I wanted to combine sciences and technology to try to make change at the worldwide level. Previously wanted to be a neurosurgeon
+- 2012: Taught myself chess, reached 1500 rating within 3 months, won a few tournaments. Applied to colleges.
+- 2013: Accepted offer of admission to the Biomedical Engineering program at Johns Hopkins University, chosen over returning to Israel to join the army. Graduated as valedictorian of high school (for whatever that's worth...), started freshman year at JHU. Became a US citizen.
+- 2014: Wanted to drop out of JHU, ended up taking 2x a regular course load. Went to CES and took an interest in computer science and programming computers. Decided to start MedHacks and started to learn to lead. Took first graduate level course, in computer vision.
+- 2015: Made it to the crazy world of Silicon Valley. Pulled off the first MedHacks. Got into MS program for Computer Science at JHU. Started acting and singing in musical theatre. On the darker side, was fired as a RA mid-semester and lived on couches of friends, effectively homeless.
+- 2016: Lived on Kibbutz Neot Semedar for a month. Started reading voraciously. Began MS program in Computer Science, and later research in the Vision and Learning Lab at JHU. Returned to San Francisco as a KPCB Fellow. Transitioned MedHacks leadership. Started a "failed" tech recruiting company. Accepted to piano study at Peabody Conservatory.
+- 2017: Graduated MS and BS in May 2017. Lived a good portion of the year in Argentina, became a fluent Argentinian Spanish speaker. Also became a proficient Portuguese speaker and in general found a love for language. Started an AI + drug discovery company.

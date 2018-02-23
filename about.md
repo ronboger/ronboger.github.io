@@ -27,4 +27,5 @@ More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), my
 - 2015: Made it to the crazy world of Silicon Valley. Pulled off the first MedHacks. Got into MS program for Computer Science at JHU. Did lots of musical theater. 
 <!-- On the darker side, was fired as a RA mid-semester and lived on couches of friends, effectively homeless, for the remainder of the year. -->
 - 2016: Lived on Kibbutz Neot Semedar for a month. Started reading voraciously. Began MS program in Computer Science, and later research in the Vision and Learning Lab at JHU. Returned to San Francisco as a KPCB Fellow. Accepted to piano study at Peabody Conservatory.
-- 2017: Graduated MS and BS in May 2017. Began practicing Vipassana meditation seriously. Lived a good portion of the year in Argentina, became fluent in Argentinian Spanish. Also became an advanced Brazilian Portuguese speaker and in general found a love for language. Started an AI + drug discovery company.
+- 2017: Graduated MS and BS in May 2017. Began practicing Vipassana meditation seriously. Lived a good portion of the year in Argentina, became fluent in Argentinian Spanish. Also became an advanced Brazilian Portuguese speaker and in general found a love for language. 
+<!-- - 2018: Started an AI + drug discovery company. -->

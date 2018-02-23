@@ -9,7 +9,7 @@ Hey there! My name is Ron Boger. I completed my Master's studies in Computer Sci
 
 <!-- My research interests include non-convex optimization, sparsity, compressed sensing, deep learning, subspace clustering -->
 
-In the past, I was the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano minor student at the Peabody Conservatory, among other things.
+In the past, I was the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano performance student at the Peabody Conservatory, among other things.
 
 More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), my [projects](/projects), my [Github](https://github.com/ronnyb29/), and my [Goodreads profile](https://www.goodreads.com/user/show/69825193-ron-boger). Feel free to contact me at ronnyb - at - jhu - dot - edu.
 

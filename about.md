@@ -18,7 +18,7 @@ More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), my
 - 1998: First moved to Baltimore, MD.
 - 2001: Initial plans to move back to Tel Aviv were delayed.
 - 2003: Started playing the piano, received first lesson as my 8th birthday present.
-- 2004: Last of Israeli friends in my neighborhood returned to Israel.
+- 2004: Last of Israeli friends in my neighborhood returned to Israel. Finished ESL around this time.
 - 2007: Expanded musical ability to guitar and singing.
 - 2009: Worked as a neuroscience researcher at the Kennedy Krieger Institute at Johns Hopkins Hospital as a high school student. Realized I wanted to combine sciences and technology to try to make change at the worldwide level. Previously wanted to be a neurosurgeon.
 - 2012: Taught myself chess, reached 1500 rating within 3 months, won a few tournaments.

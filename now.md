@@ -5,7 +5,7 @@ title: Now
 
 ## What I’m doing now
 
-I returned from the Patagonia to San Francisco a few days ago to work on my AI for cancer drug discovery startup, for which we're currently fundraising.
+I returned from the Patagonia to San Francisco a few days ago to work on an AI/drug discovery project.
 
 I've had a bit of a culture shock coming back to San Francisco. Everyone speaks English and not Spanish here (although out of habit I speak in Spanish at the Mexican restaurants and supermarkets). Prices are substantially higher - I paid more in dollars for the CalTrain than I did in pesos for the trains in Argentina. Hitchhiking doesn't seem to be in style here like it is in the Patagonia. The streets are relatively clean and not lined with dog poop; likewise, the night sky is relatively foggy and not lined with stars. Cafes are lined with engineers with the latest Apple products and business people conducting business-y meetings, rather than people meeting for coffee. I saw a dishwasher, piano, and clothing drier for the first time in months. Stores close early here. There are grocery delivery services - here supermarkets are not within a blocks reach as they are in South America. The first world is dominated by a services economy, not agriculture/produce. Cars here are not only automatic transmission, but also many are electric. Prices seem to go up always in San Francisco as they do in Argentina - one is due to currency inflation and the other is due to overabundance of wealth.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I became fluent in Spanish in less than 3 months
+title: How I became fluent in Spanish in less than 2 months
 <!-- published: false -->
 ---
 

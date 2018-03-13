@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I became fluent in Spanish in less than 2 months
+title: Reflections on rapid learning of Spanish
 <!-- published: false -->
 ---
 
@@ -9,9 +9,9 @@ Two years ago, I spent my winter break living in Kibbutz Neot Semedar, a [kibbut
 This post is not about "why" to learn another language, but rather my "how".
 
 To preface, there are of course different levels of fluency. As it turns out, every Spanish speaking country has their own dialect. I speak Argentinian Spanish, due to my travels in Argentina and enamoration with Argentinian culture. I still have a ton to learn, and sometimes words just don't come out for me. Regardless, to provide perspective on where my level of fluency is:
-- Most who come from outside of Latin America tend to perceive me as a local.
+- Most who come from outside of Latin America tend to perceive me as a local Argentinian.
 - Argentinians tend to think I'm European, usually someone from France/Brazil who learned Spanish with ease, or someone from another part of Europe who has Argentinian parents. I've met several English teachers in Argentina, who all found it easier to communicate with me in Spanish than in English.
-- The other day, I met two Chileans and hung out with them for a while. An hour in to our encounter, an Australian came and asked us a few questions in English. I answered, and was then complimented by two Chileans on how well I speak English, as they were convinced I was from Buenos Aires.
+- The other day, I met two Chileans and hung out with them for a while. An hour in to our encounter, an Australian came and asked us a few questions in English. I answered, and was then complimented by two Chileans on how well I speak English. I tried to convince them after that I was in fact, not from Buenos Aires, but this was to no avail.
 
 Obviously, there's room where I can grow. Nonetheless, I think and speak in Spanish effortlessly. What I hope to distill is how I've been approaching new languages.
 

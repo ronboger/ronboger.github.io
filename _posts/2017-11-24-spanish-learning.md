@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I became fluent in Spanish in < 3 months
-published: false
+<!-- published: false -->
 ---
 
 Two years ago, I spent my winter break living in Kibbutz Neot Semedar, a [kibbutz](https://en.wikipedia.org/wiki/Kibbutz) in the Negev of Israel. One day I was tasked to design the electrical circuits with Dan, an Israel-Argentinian 22 year engineer who recently finished his military service. In that day, something clicked. I took Spanish courses years ago, but treated it as a class rather than a language and never understood a thing. Dan had started teaching me Spanish from the perspective of a Hebrew speaker. In that one day, I learned more Spanish than I did in 4 years of courses, and developed a theory on language. These last two months I've been living/traveling in Argentina, and successfully tested this theory.

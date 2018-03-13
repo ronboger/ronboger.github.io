@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MedHacks 2017 presentation on "How to land an awesome startup job"
+published: false
 ---
 
 ### Slides can be found **[here](http://ronboger.me/startupMedhacks)**.

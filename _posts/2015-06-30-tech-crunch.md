@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Indirectly on Tech Crunch?
+published: false
 ---
 
 Last Thursday I went to Internapalooza, an event geared towards entrepreneurial software engineering interns. The first half started off as a crowded career fair with big name tech giants and startups in the SF Bay Area, such as Apple, Uber, AirBnb, and Microsoft. The next half focused on talks by accomplished technology veterans, most notably Sam Altman of Y-Combinator.

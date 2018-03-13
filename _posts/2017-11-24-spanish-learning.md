@@ -78,4 +78,4 @@ Translating these directly into English causes immediate problems. In the first 
 
 ## Ending note
 
-Learning a new language has been one of my most rewarding experiences. Beyond simply the intellectual challenge, it opens a pathway to make millions of new friends from all over the world. It's not as hard as you think, but it does take effort.
+Learning a new language has completely changed my life. Beyond simply the intellectual challenge, it opens a pathway to make millions of new friends from all over the world. My life would not be the same without the wonderful friends I have made in Argentina. To anyone learning - I hope my take helps, stick through the process as it becomes incredibly rewarding in the end.

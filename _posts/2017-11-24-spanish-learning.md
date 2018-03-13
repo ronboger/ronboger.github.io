@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How I became fluent in Spanish in < 3 months
+title: How I became fluent in Spanish in less than 3 months
 <!-- published: false -->
 ---
 
-Two years ago, I spent my winter break living in Kibbutz Neot Semedar, a [kibbutz](https://en.wikipedia.org/wiki/Kibbutz) in the Negev of Israel. One day I was tasked to design the electrical circuits with Dan, an Israeli-Argentinian 22 year engineer who recently finished his military service. In that day, something clicked. I took Spanish courses years ago, but treated it as a class rather than a language and never understood a thing. Dan had started teaching me Spanish from the perspective of a Hebrew speaker. In that one day, I learned more Spanish than I did in 4 years of courses, and developed a theory on language. These last two months I've been living/traveling in Argentina, and successfully tested this theory.
+Two years ago, I spent my winter break living in Kibbutz Neot Semedar, a [kibbutz](https://en.wikipedia.org/wiki/Kibbutz) in the Negev of Israel. One day I was tasked to design the electrical circuits with Dan, an Israeli-Argentinian 22 year engineer who recently finished his military service. One that day, something clicked. I took Spanish courses years ago, but always treated it as a class rather than a language. I never understood or could speak a thing. Dan had started teaching me Spanish from the perspective of a Hebrew speaker. In that one day, I learned more Spanish than I did in 4 years of courses, and began to develop a theory on how one ought to learn a language. These last two months I've been living in Argentina, and successfully tested this theory.
 
 This post is not about "why" to learn another language, but rather my "how".
 
@@ -13,7 +13,7 @@ To preface, there are of course different levels of fluency. As it turns out, ev
 - Argentinians tend to think I'm European, usually someone from France/Brazil who learned Spanish with ease, or someone from another part of Europe who has Argentinian parents. I've met several English teachers in Argentina, who all found it easier to communicate with me in Spanish than in English.
 - The other day, I met two Chileans and hung out with them for a while. An hour in to our encounter, an Australian came and asked us a few questions in English. I answered, and was then complimented by two Chileans on how well I speak English, as they were convinced I was from Buenos Aires.
 
-Obviously, there's room where I can grow. Nonetheless, I think and speak in Spanish effortlessly, and simply want to share my method.
+Obviously, there's room where I can grow. Nonetheless, I think and speak in Spanish effortlessly. What I hope to distill is how I've been approaching new languages.
 
 ## The theory for everyone
 
@@ -35,7 +35,7 @@ While you can't unfortunately regain the neural plasticity you had when you were
 
 Learn to have patience with your studies. Easier said than done, but **try to view language learning as something without a deadline**. Do a trip if you can, but if you can't, find fun native speakers.
 
-In the anthropological community, it's common for anthropologists to go to a new area with an unwritten tribal language and become fluent in it. If you move somewhere where you don't speak the language and **have an intense interest in communicating with others**, your chance of success will increase substantially.
+In the anthropological community, it's common for anthropologists to go to a new area with an unwritten tribal language and become fluent in it. If you move somewhere where you don't speak the language and **have an intense interest in communicating with others**, your chance of success will increase substantially. [Stephen Krashen](https://en.wikipedia.org/wiki/Stephen_Krashen), professor emeritus at University of Southern California, refers to this as "comprehensible input". I went to a talk of his at [LangFest 2018](https://montreal.langfest.org/) and loved it - leaving a short summary of his take [here](http://www.sk.com.br/sk-krash.html).
 
 So in summary.
 
@@ -75,3 +75,7 @@ Translating these directly into English causes immediate problems. In the first 
 - Listen to a lot of music in Spanish. Listening attentively and singing along slowly improved my pronunciation and accent.
 - Try to talk to everyone in Argentina (works best in non-touristy areas). To me, I was (and still am) with the culture and language in Argentina. Hence, every opportunity speaking to someone was an opportunity to learn more. People at stores. Bus drivers. Store owners. If you really make an effort to try to know them and speak their language, they notice.
 - Couchsurfing! With Couchsurfing I stayed in the homes of 10-20 people, each of whom not only showed me their culture but also were willing to correct me as I spoke to them in their native tongue.
+
+## Ending note
+
+Learning a new language has been one of my most rewarding experiences. Beyond simply the intellectual challenge, it opens a pathway to make millions of new friends from all over the world. It's not as hard as you think, but it does take effort.

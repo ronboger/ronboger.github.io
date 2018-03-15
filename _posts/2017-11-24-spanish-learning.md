@@ -56,7 +56,7 @@ What you don't know is that as a result, you have an increased facility for lang
 
 When I first started learning Spanish, I chose to initially think of it as a mix of Hebrew (grammar, accent) and English (latin roots). I thought this approach could be sensible due to the map below - Spain is sort of in between Israel and England, where Hebrew and English emerged.
 
-![Map of where languages originated from](../public/photos/engspis.png)
+![Map of where languages originated from](/public/photos/engspis.png)
 
 There's perhaps some more logic to this, as Arabic influenced both Hebrew (due to proximity) and Spanish (due to the Moorish period). If I had to absolutely had to translate a word, I'd make sure to always translate into Hebrew, my less dominant language.
 I figured eventually I'd mentally separate Spanish from the two in my mind.

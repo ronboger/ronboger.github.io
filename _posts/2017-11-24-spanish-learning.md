@@ -58,7 +58,7 @@ When I first started learning Spanish, I chose to initially think of it as a mix
 
 ![Map of where languages originated from](/public/photos/engspis.png)
 
-There's perhaps some more logic to this, as Arabic influenced both Hebrew (due to proximity) and Spanish (due to the Moorish period). If I had to absolutely had to translate a word, I'd make sure to always translate into Hebrew, my less dominant language.
+There's perhaps some more logic to this, as Arabic influenced both Hebrew (due to proximity) and Spanish (due to the Moorish period). If I absolutely had to translate a word, I'd make sure to always translate into Hebrew, my less dominant language.
 I figured eventually I'd mentally separate Spanish from the two in my mind.
 
 Although English + Hebrew doesn't allow you to instantly pick up Spanish the way Hindi speakers may pick up Urdu, knowing both gives you an improved base to build off of. Take for instance the word "ya" in Spanish. In English, the concept of "ya" is a bit complicated to explain. Take these three sentences as an example:
@@ -66,7 +66,7 @@ Although English + Hebrew doesn't allow you to instantly pick up Spanish the way
 - [Ya no sé qué hacer conmigo]() - I don't know what to do with myself anymore. (This is also the name great song by Uruguayan band Cuarteto de nos)
 - Ya vuelvo - I return soon.
 
-Translating these directly into English causes immediate problems. In the first sentence, "ya" means "already"; in the second, "ya" means "anymore"; in the third, "ya" means "soon". In Hebrew, on the contrary, "ya" is exactly the word "כבר" in these common contexts. Or take the difference between "conocer" and "saber" which is confusing to explain in English but instantly translatable in English to "להכיר" and "לדעת". I'd be willing to this triangulation to a new language applies beyond just Spanish.
+Translating these directly into English causes immediate problems. In the first sentence, "ya" means "already"; in the second, "ya" means "anymore"; in the third, "ya" means "soon". In Hebrew, on the contrary, "ya" is exactly the word "כבר" in these common contexts. Or take the difference between "conocer" and "saber" which is confusing to explain in English but instantly translatable in Hebrew to "להכיר" and "לדעת". It would seem plausible this triangulation to a new language applies beyond just Spanish or even just Romance/Germanic Language.
 
 ## What I did + resources + suggestions
 

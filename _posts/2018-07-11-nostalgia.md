@@ -31,6 +31,9 @@ There's a quote often attributed to Steve Jobs on how "the journey is the reward
 
 Thank you to everyone who helped me throughout this past year. I appreciate it more than you know.
 
+*Catching the sunsets in Patagonia*
+![Ghent](/public/photos/sunsetcerro.jpg)
+
 <!--SF tends use it’s mental energy and capital to solve it’s own problem (less so in biotech). Given the luck I’ve had - not having to take out loans, going to a great university in the top program for biomedical engineering, creating a network in a high opportunity area. When others zig, sometimes it’s the right move to zag. 
 
 In Buenos Aires, Uber and Postmates would never be founded. -->

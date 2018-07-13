@@ -3,7 +3,7 @@ layout: post
 title: Nostalgia - my next adventure
 ---
 
-I'm writing this on a flight to San Francisco from Tel Aviv via Baltimore, where I spent the last couple weeks. This time, I have more than just the two small backpacks I carried with me throughout South America and lived off for the last 10 months. 
+I'm writing this on a flight to San Francisco from Tel Aviv via Baltimore, where I spent the last couple weeks. This time, I have more than just the two small backpacks I carried with me throughout South America and lived off for the last 10 months. In the beginning of June, I joined [System1 Biosciences](https://system1.bio) in SF, as one of the first Machine Learning Scientists. It's the coolest place to work (at least for my interest), and definitely worth doing over staying in Baltimore/Tel Aviv or continuing to travel throughout the world.
 
 I would typically write something like this in the [now section](/now) of my site, but this particular time incites a particular nostalgia (or saudade) that feels worthy of further reflection and a longer post. Being in Tel Aviv and Baltimore, flying to San Francisco - it felt *different* this time.
 
@@ -13,8 +13,6 @@ I would typically write something like this in the [now section](/now) of my sit
 As a child growing up in Baltimore but spending the earlier portion of my life and summers in Tel Aviv, I always felt my stay in Baltimore was a temporary occurrence on the way back home. Why live in Baltimore, or the US at all for that matter? Tel Aviv had the hummus, the weather, the beach, the hi-tech, the beautiful Hebrew language, the culture, and everything else under the constant sun. All Baltimore had was Johns Hopkins, the Ravens, and Old Bay seasoning (which can be acquired outside of Baltimore).
 
 Yet Baltimore also has a certain charm to it. Its vast greenery. Its ruggedness. The newest hip-hop and R&B heard on the streets. The university. The weather that's either too cold or too humid. It's a city with a ton of potential, and one I want to improve. And while I've struggled to admit it for years, it's my hometown and where I spent my most formative years.
-
-In the beginning of June, I joined [System1 Biosciences](https://system1.bio), as one of the first Machine Learning Scientists. It's the coolest place to work (at least for my interest), and definitely worth doing over staying in Baltimore/Tel Aviv or continuing to travel throughout the world.
 
 It's thrilling and poignant to be moving from San Francisco to Baltimore. It's thrilling, as San Francisco has a ton to offer, from arguably the largest concentration in the world of brilliant people working on solving big problems to culture to nature. And it's yet poignant, as I leave behind my family, who are the most amazing and loving people I know.
 

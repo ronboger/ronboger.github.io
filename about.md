@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hey there! My name is Ron Boger. I completed my Master's studies in Computer Science at [Johns Hopkins University](http://jhu.edu) in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics. I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot artist, and entrepreneur.
+Hey there! My name is Ron Boger. I currently work as a Machine Learning Scientist at [System1 Biosciences](https://system1.bio), as well as do a few projects with biotechnology VCs in the Bay Area. I completed my Master's studies in Computer Science at [Johns Hopkins University](http://jhu.edu) in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics. I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot artist, and entrepreneur.
 
 In the past, I was the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano performance student at the Peabody Conservatory, among other things.
 

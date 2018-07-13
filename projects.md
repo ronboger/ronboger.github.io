@@ -27,6 +27,9 @@ Starting Fall 2016, I began as a piano minor at the Peabody Conservatory at the 
 Video recording of one of my performances during Spring 2017:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0ooarKfAZY" frameborder="0" allowfullscreen></iframe>
 
+A rehearsal playing Chopin Etude Op. 10 No. 5:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NgesxgGqn5A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Many years before, I produced a video recording of Beethoven's Moonlight Sonata. Now I think it feels a bit rushed and amateurish, but still believe it's enjoyable.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rk7FLBdqqOU" frameborder="0" allowfullscreen></iframe>
 

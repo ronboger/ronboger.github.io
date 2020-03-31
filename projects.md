@@ -7,9 +7,11 @@ title: Projects
 
 <img class="img-responsive project-image" src="../assets/images/projects/ssc_missing_entries.png" alt="SSC"/>
 
-My master's project is Sparse Subspace Clustering with Missing Entries, particularly on developing efficient and effective algorithms to be able to cluster high-dimensional data with missing entries. This project has involved developing new algorithms and theory on Sparse Subspace Clustering. 
+My master's project focused on Sparse Subspace Clustering with Missing Entries, particularly on developing efficient and effective algorithms to be able to cluster high-dimensional data with missing entries. This project has involved developing new algorithms and theory on Sparse Subspace Clustering. 
 
 An easier way of explaining this is as follows: a service such as Netflix has plenty of users and movies, but obviously not every user has seen every movie. However, given that some movies and users are similar in certain qualities (ie comedy movies, or a taste in Cristopher Nolan films for users), one may infer that one could come up with recommendations. Hence, simulatenously group similar movies and users is exactly an application of this research.
+
+Our work was published in ICCV 2019 as [Classifying and Comparing Approaches to Subspace Clustering with Missing Data](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RSL-CV/Lane_Classifying_and_Comparing_Approaches_to_Subspace_Clustering_with_Missing_Data_ICCVW_2019_paper.pdf)
 
 ---
 

@@ -5,11 +5,11 @@ title: About
 
 Hey there! My name is Ron Boger. I currently work as a Machine Learning Scientist at [System1 Biosciences](https://system1.bio), as well as do a few projects with biotechnology VCs in the Bay Area. I completed my Master's studies in Computer Science at [Johns Hopkins University](http://jhu.edu) in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics. I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot artist, and entrepreneur.
 
-In the past, I was the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano performance student at the Peabody Conservatory, among other things.
+In the past, I was a machine learning scientist at [System1 Biosciences](https://system1.bio), the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano performance student at the Peabody Conservatory, among other things.
 
-I was born in the beautiful city of Tel Aviv, Israel, and grew up in Baltimore, Maryland. I've also lived in San Francisco, Buenos Aires, San Carlos de Bariloche (Argentina), and Neot Semedar (Israel) - this list will grow over time. I love languages, and speak fluent English, Hebrew, Argentinian Spanish, and Brazilian Portuguese - this list will also grow over time.
+I was born in the beautiful city of Tel Aviv, Israel, and grew up in Baltimore, Maryland. I've also lived in San Francisco, Buenos Aires, San Carlos de Bariloche (Argentina), and Neot Semedar (Israel) - this list will grow over time. I love languages, and speak fluent English, Hebrew, Spanish, Portuguese, and French - this list will also grow over time.
 
-More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), my [projects](/projects), my [Github](https://github.com/ronnyb29/), and my [Goodreads profile](https://www.goodreads.com/user/show/69825193-ron-boger). Feel free to contact me at ronnyb - at - jhu - dot - edu.
+More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), [Twitter](https://twitter.com/ronboger), [projects](/projects), [Github](https://github.com/ronnyb29/), and [Goodreads profile](https://www.goodreads.com/user/show/69825193-ron-boger). Feel free to contact me at ronnyb - at - jhu - dot - edu.
 
 <!-- On the side, I'm really interested in the below areas - if they're things you like to chat about, drop me a line! -->
 

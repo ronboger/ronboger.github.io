@@ -3,9 +3,11 @@ layout: page
 title: About
 ---
 
-Hey there! My name is Ron Boger. I currently work as a Machine Learning Scientist at [System1 Biosciences](https://system1.bio), as well as do a few projects with biotechnology VCs in the Bay Area. I completed my Master's studies in Computer Science at [Johns Hopkins University](http://jhu.edu) in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics. I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot, artist, and entrepreneur.
+Hey there! My name is Ron Boger. I currently work as a Tech Lead at [X](https://x.company), Google's moonshot laboratory. I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot, artist, and entrepreneur.
 
 In the past, I was a machine learning scientist at [System1 Biosciences](https://system1.bio), the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano performance student at the Peabody Conservatory, among other things.
+
+I completed my Master's studies in Computer Science at [Johns Hopkins University](http://jhu.edu) in May 2017, where I also concurrently did my undergraduate studies in Biomedical Engineering and Mathematics.
 
 I was born in the beautiful city of Tel Aviv, Israel, and grew up in Baltimore, Maryland. I've also lived in San Francisco, Buenos Aires, San Carlos de Bariloche (Argentina), and Neot Semedar (Israel) - this list will grow over time. I love languages, and speak fluent English, Hebrew, Spanish, Portuguese, and French - this list will also grow over time.
 

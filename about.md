@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hey there! My name is Ron Boger. I currently work as a Tech Lead at [X](https://x.company), Google's moonshot laboratory. I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot, artist, and entrepreneur.
+Hey there! My name is Ron Boger. I currently work as a Tech Lead on ML/Bio problems at [X](https://x.company), Google's moonshot laboratory. I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot, artist, and entrepreneur.
 
 In the past, I was a machine learning scientist at [System1 Biosciences](https://system1.bio), the founder and director of [MedHacks](http://medhacks.org), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, a machine learning engineer at [Flipboard](http://about.flipboard.com), a [KPCB Fellow](http://kpcbfellows.com), a piano performance student at the Peabody Conservatory, among other things.
 

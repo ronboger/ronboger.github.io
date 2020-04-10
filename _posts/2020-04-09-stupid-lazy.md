@@ -34,3 +34,5 @@ The hardworking person usually solves the problem before the slightly lazy, and 
 ---
 
 Perhaps you have the frequent urge to procrastinate on your work by exploring the obscure. Maybe you don’t get always get concepts on the first try. If you often feel a little bit lazy and a little bit stupid, don’t look down on yourself, you’re in good company! If your behaviors are not destructive, embrace them instead - being a bit lazy and a bit stupid could be your biggest advantage.
+
+<!-- **Thanks to Evan Fisher and Ori Shimony for their feedback** -->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Next Chapter
+published: false
 ---
 
 A lot can happen in the span of 1.5 years of not writing. I became a master's student in Computer Science at JHU. MedHacks, the focus of my last post (in 2015!), has beautifully transitioned leadership twice. I've lived in Neot Semadar, a wonderful kibbutz in the southern desert of Israel; worked at Flipboard as a data scientist through the KPCB Fellowship; played the piano at the Peabody conservatory, and much more that cannot be encapsulated in one short post.

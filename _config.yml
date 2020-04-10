@@ -5,17 +5,17 @@ permalink:           pretty
 
 # Setup
 title:               Ron Boger
-# tagline:             'The personal site of Ron Boger'
-tagline:             'personal site + musings'
-description:         'Writings, thoughts, projects, etc.'
-url:                 http://lanyon.getpoole.com
+# tagline:             'personal site + musings'
+tagline:             ''
+description:         'Writings, projects, and more'
+url:                 http://ronboger.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Ron Boger
-  url:               https://ronboger.me
+  url:               https://ronboger.github.io
   email:             ronnyb@jhu.edu
 
 # Custom vars

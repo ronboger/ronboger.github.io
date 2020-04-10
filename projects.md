@@ -17,10 +17,7 @@ Our work was published in ICCV 2019 as [Classifying and Comparing Approaches to 
 
 ## Piano Performance
 
-<!-- Piano video iframe -->
-<!-- Musical theatre stuff? -->
-
-Starting Fall 2016, I began as a piano minor at the Peabody Conservatory at the Johns Hopkins University. I learned and performed:
+I've been playing the piano since I was 8 years old. I occasionally perform in hospitals and senior homes in San Francisco through the non-profit [Bread and Roses](https://www.breadandroses.org/). From 2016-2017 while doing my masters, I began as a piano minor at the Peabody Conservatory at the Johns Hopkins University. I learned and performed:
 - Chopin Etude Op. 10 No. 5
 - Beethoven Sonata No. 18
 - Debussy Prelude No. 5 Book 1: Les Collines d'Ancapri
@@ -34,8 +31,6 @@ A rehearsal playing Chopin Etude Op. 10 No. 5:
 
 Many years before, I produced a video recording of Beethoven's Moonlight Sonata. Now I think it feels a bit rushed and amateurish, but still believe it's enjoyable.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rk7FLBdqqOU" frameborder="0" allowfullscreen></iframe>
-
-
 
 ---
 
@@ -53,7 +48,7 @@ As part of my Biomedical Engineering Design Team, I cofounded <a href="http://dt
 
 What if the most creative minds channeled their focus into solving the most impactful problems of today? Imagine if we could apply the ingenuity that powers the most profound technology into the most fundamental of all human concerns: health. MedHacks is the start.
                                    
-I founded and led the creation of the first <a href="http://medhacks.org">MedHacks</a>, and currently advise as executive chairman. MedHacks 1.0 attracted over 400 participants from 25 universities and 3 countries to hack health Oct 2-4, 2015. Due to our success, I was invited to speak at Hackcon IV and gave talk on digital health and medtech innovation. Now in its third year of existence, MedHacks has established relationships with numerous incubators, tech companies, academics centers, and VC firms. We're always looking for great organizations to partner with - if you'd like to get in touch shoot me an email at <a href="mailto:ron@medhacks.org">ron@medhacks.org</a> :).
+I founded and led the creation of the first <a href="http://medhacks.org">MedHacks</a>, and currently advise as executive chairman. MedHacks 1.0 attracted over 400 participants from 25 universities and 3 countries to hack health Oct 2-4, 2015. Due to our success, I was invited to speak at Hackcon IV and gave talk on digital health and medtech innovation. Now in its third year of existence, MedHacks has established relationships with numerous incubators, tech companies, academics centers, and VC firms. We're always looking for great organizations to partner with - shoot me an email if you'd like to get in touch.
                                    
 ---
 
@@ -73,7 +68,7 @@ I helped develop the Android front-end and backend ranking algorithm using OpenD
 
 Worked with a classmate in Computer Vision course to colorize Sergei Mikhailovich Prokudin-Gorskii’s black and white images of the Russian empire. Gorskii took 3 shots of each scene - one with a Blue filter in front of the camera, one with a Green filter, and one with a Red filter. Our solution used SIFT descriptors to define homographies between the 3 sub-images and merge them together in mosaic-like fashion.
 
-Further information (code, images, and report) available on <a href="https://github.com/ronnyb29/computer-vision-3-image-colorize">Github.</a>
+Further information (code, images, and report) available on <a href="https://github.com/ronboger/computer-vision-3-image-colorize">Github.</a>
 
 ---
 

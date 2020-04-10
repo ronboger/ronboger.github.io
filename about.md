@@ -11,7 +11,7 @@ I completed my Master's studies in Computer Science at [Johns Hopkins University
 
 I was born in the beautiful city of Tel Aviv, Israel, and grew up in Baltimore, Maryland. I've also lived in San Francisco, Buenos Aires, San Carlos de Bariloche (Argentina), and Neot Semedar (Israel) - this list will grow over time. I love languages, and speak fluent English, Hebrew, Spanish, Portuguese, and French - this list will also grow over time.
 
-More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), [Twitter](https://twitter.com/ronboger), [projects](/projects), [Github](https://github.com/ronnyb29/), and [Goodreads profile](https://www.goodreads.com/user/show/69825193-ron-boger). Feel free to contact me at ronnyb - at - jhu - dot - edu.
+More about me via my [LinkedIn profile](http://www.linkedin.com/in/ronboger), [Twitter](https://twitter.com/ronboger), [projects](/projects), [Github](https://github.com/ronboger/), and [Goodreads profile](https://www.goodreads.com/user/show/69825193-ron-boger). Feel free to contact me at ronnyb - at - jhu - dot - edu.
 
 <!-- On the side, I'm really interested in the below areas - if they're things you like to chat about, drop me a line! -->
 

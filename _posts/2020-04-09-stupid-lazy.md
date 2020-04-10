@@ -9,7 +9,9 @@ As a student, I'd often chuckle hearing this. My high school and college friends
 
 I hoped therefore that being a little bit lazy would help me be a great mathematician, or at least pass Wilson's courses. It was only until recently that I fully grasped the truth of his statement. Being a little bit stupid and a bit lazy is not just a characteristic of good mathematicians, but a strategy that can be applied to all creative pursuits.
 
-**Being a bit stupid.**
+---
+
+## Being a bit stupid
 
 If you're super smart, you understand things as you learn them. You become deeply familiar with the research in your area. You quickly progress up the field. You learn all the and tools tricks. 
 
@@ -17,7 +19,9 @@ Being a bit stupid has it advantages. You don't immediately understand the funda
 
 Many of the most important scientific discoveries have come from challenging previously held beliefs. Albert Einstein, who was never considered an exemplary student in his schooling, questioned Newtonian mechanics early on. He felt Newtonian mechanics could not reconcile with Maxwell's equations for electromagnetism. This led to the development of his special theory of relativity, and later on, his general theory of relativity. Notably, Einstein developed the special theory of relativity while working in a patent office, as universities didn't see him fit for an academic position. Questioning key assumptions allows the slightly stupid to uncover the unknown unknowns.
 
-**Being a bit lazy.** 
+---
+
+## Being a bit lazy
 
 If you're hard working, you'll attempt to use the vast machinery at your disposal. You immediately get to work on the problem. You work on it everyday till you solve it, which is admirable. A quality of great artists is their habit in always showing up to the easel everyday. When you do find a solution, it may be convoluted if you miss the essence of the problem. 
 
@@ -26,5 +30,7 @@ Here's what happens when you're a bit lazy. You procrastinate, [leading to great
 Italian polymath Leonardo Da Vinci is a good example of a famous procrastinator. He is said to have had a horrible attention span, which pushed him to think and wander across fields. These distractions meant Da Vinci wouldn't always finish his projects, but attained unique ideas balancing across science, math, and art.
 
 The hardworking person usually solves the problem before the slightly lazy, and moves on to the next. It may seem she is solving more problems per unit of time, but this notion is only illusory. The slightly lazy will produce a cleaner and better solution.
+
+---
 
 Perhaps you have the frequent urge to procrastinate on your work by exploring the obscure. Maybe you don’t get always get concepts on the first try. If you often feel a little bit lazy and a little bit stupid, don’t look down on yourself, you’re in good company! If your behaviors are not destructive, embrace them instead - being a bit lazy and a bit stupid could be your biggest advantage.

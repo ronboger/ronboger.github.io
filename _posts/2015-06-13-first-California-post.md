@@ -1,6 +1,7 @@
 ---
 layout: post
 title: California Love
+published: false
 ---
 
 After a month in the Bay Area, I have concluded that Silicon Valley is awesome!

@@ -3,11 +3,17 @@ layout: page
 title: Projects
 ---
 
+## Publication
+
+My full list of publications can be found on (Google Scholar)[https://scholar.google.com/citations?user=qU-JFvMAAAAJ&hl=en].
+
+---
+
 ## Sparse Subspace Clustering with Missing Entries
 
 <img class="img-responsive project-image" src="../assets/images/projects/ssc_missing_entries.png" alt="SSC"/>
 
-My MS project focused on Sparse Subspace Clustering with missing entries, particularly on developing new algorithms to be able to cluster and complete high-dimensional data with missing entries. Our work was published in ICCV 2019 as [Classifying and Comparing Approaches to Subspace Clustering with Missing Data](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RSL-CV/Lane_Classifying_and_Comparing_Approaches_to_Subspace_Clustering_with_Missing_Data_ICCVW_2019_paper.pdf)
+My MS project focused on Sparse Subspace Clustering with missing entries, particularly on developing new algorithms to be able to cluster and complete high-dimensional data with missing entries. Our work was published in ICCV 2019 as [Classifying and Comparing Approaches to Subspace Clustering with Missing Data](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RSL-CV/Lane_Classifying_and_Comparing_Approaches_to_Subspace_Clustering_with_Missing_Data_ICCVW_2019_paper.pdf).
 
 ---
 
@@ -36,9 +42,9 @@ A rehearsal playing Chopin Etude Op. 10 No. 5 in Fall 2016:
 
 <img class="img-responsive project-image" src="../assets/images/projects/medhacks.jpg" alt="MedHacks"/>
 
-What if the most creative minds channeled their focus into solving the most impactful problems of today? Imagine if we could apply the ingenuity that powers the most profound technology into the most fundamental of all human concerns: health. MedHacks is the start.
+<!-- What if the most creative minds channeled their focus into solving the most impactful problems of today? Imagine if we could apply the ingenuity that powers the most profound technology into the most fundamental of all human concerns: health. MedHacks is the start. -->
                                    
-I founded and led <a href="http://medhacks.org">MedHacks</a>. The first MedHacks attracted over 400 participants from 25 universities and 3 countries to hack health on Oct 2-4, 2015. Many years late, MedHacks has established itself as a  relationships with numerous incubators, tech companies, academics centers, and VC firms.
+I founded and led <a href="http://medhacks.org">MedHacks</a>, an international medical hackathon to promote collaboration and innovation in medicine and engineering. The first MedHacks attracted over 400 participants from 25 universities and 3 countries to hack health on Oct 2-4, 2015. Still growing, MedHacks has established itself as one of the largest and most well-known medical hackatons, formed deep relationships with industry and academia, and led to the formation of numerous venture funded startups in healthcare and biotechnology.
                                    
 ---
 

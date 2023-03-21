@@ -3,11 +3,15 @@ layout: page
 title: About
 ---
 
-Hey there! My name is Ron. I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot, artist, and entrepreneur.
+Hey there! My name is Ron. 
 
-I'm a Biophysics PhD student at UC Berkeley in [Jennifer Doudna's lab](https://doudnalab.org/). I'm also a Venture Partner at [Compound VC](https://www.compound.vc/), investing in frontier tech. 
+<!-- I don't identify as being anything, but am most frequently identified by others as a scientist, engineer, polyglot, artist, and entrepreneur. -->
 
-In the past, I worked as a Tech Lead on ML/Bio problems at [X](https://x.company) (Google's moonshot laboratory), a machine learning scientist at [Herophilus (prev. System1 Biosciences)](https://www.herophilus.com/), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University, among other things.
+I'm a Biophysics PhD student at UC Berkeley in [Jennifer Doudna's lab](https://doudnalab.org/). I'm also a Venture Partner at [Compound VC](https://www.compound.vc/), investing in frontier tech, and advise a few companies in this area too. 
+
+In the past, I worked as a Tech Lead on ML/Bio problems at [X](https://x.company) (Google's moonshot laboratory), a machine learning scientist at [Herophilus (prev. System1 Biosciences)](https://www.herophilus.com/), a researcher in the [VisionLab](http://vision.jhu.edu) at Johns Hopkins University. 
+
+<!-- I've also researched alternative protein production with [Convergent Research](https://www.convergentresearch.org/). -->
 
 I completed my Master's studies in Computer Science at [Johns Hopkins University](http://jhu.edu) in May 2017, where I concurrently did my undergraduate studies in Biomedical Engineering and Mathematics. While I was in college, I founded and directed [MedHacks](http://medhacks.org) and was a [KPCB Fellow](http://kpcbfellows.com). I also had a wonderful time as a piano performance student at the Peabody Conservatory while at Johns Hopkins. 
 

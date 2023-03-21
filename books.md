@@ -3,7 +3,7 @@ layout: page
 title: Books
 ---
 
-I really love to read. Most of what I've read can be found on my (GoodReads profile)[https://www.goodreads.com/user/show/69825193-ron-boger]. However, some favorites of mine are:
+I really love to read. Most of what I've read can be found on my [GoodReads profile](https://www.goodreads.com/user/show/69825193-ron-boger). However, some favorites of mine are:
 
 - Siddhartha, Demian - Herman Hesse
 - The Alchemist - Paulo Coelho

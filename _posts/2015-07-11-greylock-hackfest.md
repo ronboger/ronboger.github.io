@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Greylock Hackfest
+published: false
 ---
 
 I'm currently on the Caltrain to San Francisco, where I'll be visiting my uncle for a road bike trip as well as friends competing in OutsideHacks and ChimeHack2 today. In the spirit of hackathons, I'll write about the Greylock Hackfest, a hackathon I did 2 weeks ago.

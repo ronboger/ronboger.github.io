@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nostalgia - my next adventure
+published: false
 ---
 
 I'm writing this on a flight to San Francisco from Tel Aviv via Baltimore, where I spent the last couple weeks. This time, I have more than just the two small backpacks I carried with me throughout South America and lived off for the last 10 months. In the beginning of June, I joined [System1 Biosciences](https://system1.bio) in SF, as one of the first Machine Learning Scientists. It's the coolest place to work (at least for my interest), and definitely worth doing over staying in Baltimore/Tel Aviv or continuing to travel throughout the world.

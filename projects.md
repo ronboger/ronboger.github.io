@@ -5,7 +5,7 @@ title: Projects
 
 ## Publication
 
-My full list of publications can be found on (Google Scholar)[https://scholar.google.com/citations?user=qU-JFvMAAAAJ&hl=en].
+My full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=qU-JFvMAAAAJ&hl=en).
 
 ---
 

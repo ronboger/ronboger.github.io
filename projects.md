@@ -54,7 +54,7 @@ I founded and led <a href="http://medhacks.org">MedHacks</a>, an international m
 
 <img class="img-responsive project-image" src="../assets/images/projects/strollsafe_2.jpeg" alt="strollsafe"/>
 
-Winning the Comcast EveryBlock API prize at PennApps, StrollSafe is an app all about contextual maps. Strollsafe releases location-based crime reports for people out walking. Using OpenDataPhilly and EveryBlock info, the app overlays crime data onto a standard map. 
+Winning the Comcast EveryBlock API prize at PennApps 2016, StrollSafe is an app all about contextual maps. Strollsafe releases location-based crime reports for people out walking. Using OpenDataPhilly and EveryBlock info, the app overlays crime data onto a standard map. 
 
 Check out our submission on <a href="https://devpost.com/software/strollsafe">Devpost</a> and our <a href="http://technical.ly/baltimore/2015/09/09/heres-project-jhu-students-took-home-top-prize-pennapps/">press</a>.
 
@@ -62,7 +62,7 @@ Check out our submission on <a href="https://devpost.com/software/strollsafe">De
 
 <img class="img-responsive project-image" src="../assets/images/projects/dash_2.jpeg" alt="Dash"/>
 
-Placing 3rd overall at Hophacks Spring 2015, Dash is an incentive based fitness app that allows users to competitively race their friends. Users can schedule their races within the Dash interface, which allows them to set an endpoint and the amount each competitor must wager to enter the race. It's simple: first person to reach the end marker wins the prize. We wanted to revolutionize the way people think about fitness, and Dash provides motivation and childlike wonder to running again. 
+Placing 3rd overall at Hophacks Spring 2015, Dash is an incentive based fitness app that allows users to competitively race their friends. Users can schedule their races within the Dash interface, which allows them to set an endpoint and the amount each competitor must wager to enter the race. It's simple: first person to reach the end marker wins the prize. We wanted to change the way people think about fitness, and hoped Dash would provide new motivation and childlike wonder to running. 
 Check out our submission on <a href="http://challengepost.com/software/dash-3nb0n">DevPost</a> and our presentation on <a href="http://youtu.be/gSPnXP_eHsE?t=1h8m45s">YouTube</a>.
 
 <!-- ## Flapp

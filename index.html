@@ -30,7 +30,7 @@ To see more about the past, click <a href="/about">here</a>.
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.content | truncatewords: 100, "..." }}
   </div>
   {% endfor %}
 </div>

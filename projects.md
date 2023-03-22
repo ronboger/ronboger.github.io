@@ -19,7 +19,7 @@ My MS project focused on Sparse Subspace Clustering with missing entries, partic
 
 ## Piano Performance
 
-I've been playing the piano since I was 8 years old. I have performed in hospitals and senior homes in San Francisco and Baltimore. From 2016-2017, I did a piano performance minor at the Peabody Conservatory at the Johns Hopkins University. 
+I've been playing the piano since I was 8 years old. I have performed in hospitals and senior homes in San Francisco and Baltimore. From 2016-2017, I studied piano performance at the Peabody Conservatory as part of my studies at Johns Hopkins. 
 
 <!-- I learned and performed:
 - Chopin Etude Op. 10 No. 5

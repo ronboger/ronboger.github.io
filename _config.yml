@@ -21,6 +21,10 @@ author:
 # Custom vars
 version:             1.0.0
 
+plugins:
+  - jekyll-paginate
+
+
 gems: [jekyll-paginate]
 paginate: 2
 paginate_path: "page:num"

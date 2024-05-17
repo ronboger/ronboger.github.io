@@ -2,6 +2,8 @@
 
 for blog
 
+## Some commands
+
 Because I'll inevitably forget in the future, run locally with these commands
 
 ```

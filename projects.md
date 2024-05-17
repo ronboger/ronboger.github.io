@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+published: false
 ---
 
 My full list of publications can be found on [Google Scholar](https://scholar.google.com/citations?user=qU-JFvMAAAAJ&hl=en). Some other fun projects:
@@ -19,33 +20,22 @@ My MS project focused on Sparse Subspace Clustering with missing entries, partic
 
 I've been playing the piano since I was 8 years old. I have performed in hospitals and senior homes in San Francisco and Baltimore. From 2016-2017, I studied piano performance at the Peabody Conservatory as part of my studies at Johns Hopkins. 
 
-<!-- I learned and performed:
-- Chopin Etude Op. 10 No. 5
-- Beethoven Sonata No. 18
-- Debussy Prelude No. 5 Book 1: Les Collines d'Ancapri
-- Bach French Suite No. 5 -->
-
 Video recording of one of my performances during Spring 2017:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0ooarKfAZY" frameborder="0" allowfullscreen></iframe>
 
 A rehearsal playing Chopin Etude Op. 10 No. 5 in Fall 2016:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgesxgGqn5A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<!-- In 2013, I produced a video recording of Beethoven's Moonlight Sonata. Now I think it feels a bit rushed and amateurish, but still believe it's enjoyable.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rk7FLBdqqOU" frameborder="0" allowfullscreen></iframe> -->
-
 ---
 
 ## MedHacks
 
 <img class="img-responsive project-image" src="../assets/images/projects/medhacks.jpg" alt="MedHacks"/>
-
-<!-- What if the most creative minds channeled their focus into solving the most impactful problems of today? Imagine if we could apply the ingenuity that powers the most profound technology into the most fundamental of all human concerns: health. MedHacks is the start. -->
                                    
 I founded and led <a href="http://medhacks.org">MedHacks</a>, an international medical hackathon to promote collaboration and innovation in medicine and engineering. The first MedHacks attracted over 400 participants from 25 universities and 3 countries to hack health on Oct 2-4, 2015. Still growing, MedHacks has established itself as one of the largest and most well-known medical hackatons, formed deep relationships with industry and academia, and led to the formation of numerous venture funded startups in healthcare and biotechnology.
                                    
----
-
+<!-- --- -->
+<!-- 
 ## Hackathons
 
 ### StrollSafe
@@ -61,7 +51,7 @@ Check out our submission on <a href="https://devpost.com/software/strollsafe">De
 <img class="img-responsive project-image" src="../assets/images/projects/dash_2.jpeg" alt="Dash"/>
 
 Placing 3rd overall at Hophacks Spring 2015, Dash is an incentive based fitness app that allows users to competitively race their friends. Users can schedule their races within the Dash interface, which allows them to set an endpoint and the amount each competitor must wager to enter the race. It's simple: first person to reach the end marker wins the prize. We wanted to change the way people think about fitness, and hoped Dash would provide new motivation and childlike wonder to running. 
-Check out our submission on <a href="http://challengepost.com/software/dash-3nb0n">DevPost</a> and our presentation on <a href="http://youtu.be/gSPnXP_eHsE?t=1h8m45s">YouTube</a>.
+Check out our submission on <a href="http://challengepost.com/software/dash-3nb0n">DevPost</a> and our presentation on <a href="http://youtu.be/gSPnXP_eHsE?t=1h8m45s">YouTube</a>. -->
 
 <!-- ## Flapp
 

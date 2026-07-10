@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Ron Boger
 # tagline:             'personal site + musings'
 tagline:             ''
-description:         'Writings, projects, and more'
-url:                 http://ronboger.github.io
+description:         'Scientist, engineer, and investor working at the edges of biology and computation.'
+url:                 https://ronboger.github.io
 baseurl:             ''
 paginate:            5
 

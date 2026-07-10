@@ -1,15 +1,35 @@
-# My personal site
+# ronboger.github.io
 
-for blog
+Ron Boger’s personal website, built with Jekyll and hosted with GitHub Pages at [ronboger.github.io](https://ronboger.github.io).
 
-## Some commands
+## Run locally
 
-Because I'll inevitably forget in the future, run locally with these commands
+The site requires Ruby, Bundler, and Jekyll. From the repository root:
 
-```
-bundle update # if adding new gems
-bundle install # if adding new gems
+```sh
+bundle install
 bundle exec jekyll serve
 ```
 
-`Jekyll` and `bundler` installation are needed: `gem install bundler jekyll`
+Open `http://127.0.0.1:4000` in a browser. Jekyll watches the source files and rebuilds the site as they change.
+
+To run the production build without starting a server:
+
+```sh
+bundle exec jekyll build
+```
+
+The generated site is written to `_site/` and should not be edited directly.
+
+## Site structure
+
+- `index.html` — homepage content and selected links
+- `_layouts/` — shared page and post templates
+- `_includes/` — shared document-head markup
+- `public/css/site.css` — site-wide design system and responsive styles
+- `_posts/` — writing archive
+- `_config.yml` — Jekyll and site metadata
+
+## Deploy
+
+GitHub Pages builds and publishes the site from the repository’s configured publishing branch. Push changes to that branch after reviewing the local build; no generated `_site/` files need to be committed.

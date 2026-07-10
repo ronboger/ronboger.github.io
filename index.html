@@ -1,51 +1,77 @@
 ---
 layout: default
 title: Home
+description: Ron Boger is a scientist, engineer, and investor working at the edges of biology and computation.
+body_class: home
 ---
-{% if paginator.page == 1 %}
-<h2 class="index-heading">About</h2>
 
-I'm interested in science, startups (deep-tech), and art. More about me <a href="/about">here</a>.
-<br/>
-<br/>
-What I'm <a href="/now">doing now</a>.
-<br/>
-<br/>
+<main id="main-content" class="home-page">
+  <section class="intro" id="about" aria-labelledby="intro-title">
+    <h1 id="intro-title">Scientist, engineer, and investor working at the edges of biology and computation.</h1>
 
-<h2 class="index-heading">Blog</h2>
-{% endif %}
+    <p class="intro-copy">
+      I’m a Biophysics PhD student at UC Berkeley in
+      <a href="https://doudnalab.org/">Jennifer Doudna’s lab</a>, and a Venture Partner at
+      <a href="https://www.compound.vc/">Compound</a>. Previously, I worked on machine learning and biology at
+      <a href="https://x.company/">Google X</a> and
+      <a href="https://www.herophilus.com/">Herophilus</a>.
+    </p>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
+    <nav class="contact-links" id="contact" aria-label="External profiles and contact">
+      <a href="mailto:ronnyb@jhu.edu">Email</a>
+      <a href="https://scholar.google.com/citations?user=qU-JFvMAAAAJ&amp;hl=en">Google Scholar</a>
+      <a href="https://github.com/ronboger/">GitHub</a>
+      <a href="https://www.linkedin.com/in/ronboger">LinkedIn</a>
+    </nav>
+  </section>
+
+  <section class="home-section" aria-labelledby="now-title">
+    <h2 class="section-label" id="now-title">Now</h2>
+    <div class="section-content prose">
+      <p>
+        I’m interested in computational biology, protein evolution, and the interfaces between models and molecules. I care about building methods that are statistically sound, useful to experimentalists, and capable of helping us understand biology at scale.
+      </p>
+      <p>
+        Beyond the lab, I spend time with people building ambitious companies in biotechnology and other areas of frontier technology.
+      </p>
+    </div>
+  </section>
+
+  <section class="home-section ruled-section" id="work" aria-labelledby="work-title">
+    <h2 class="section-label" id="work-title">Selected<br>work</h2>
+    <div class="section-content work-list">
+      <a class="work-row" href="https://doi.org/10.1038/s41467-024-55676-y">
+        <span class="work-title">Functional protein mining with conformal guarantees</span>
+        <span class="work-meta">2025</span>
+        <span class="work-type">Paper</span>
+        <span class="work-arrow" aria-hidden="true">↗</span>
       </a>
-    </h1>
+      <a class="work-row" href="https://icml-compbio.github.io/2023/papers/WCBICML2023_paper138.pdf">
+        <span class="work-title">TOPH: Contrastive protein search</span>
+        <span class="work-meta">2023</span>
+        <span class="work-type">Workshop</span>
+        <span class="work-arrow" aria-hidden="true">↗</span>
+      </a>
+      <a class="work-row" href="https://openaccess.thecvf.com/content_ICCVW_2019/papers/RSL-CV/Lane_Classifying_and_Comparing_Approaches_to_Subspace_Clustering_with_Missing_Data_ICCVW_2019_paper.pdf">
+        <span class="work-title">Subspace clustering with missing data</span>
+        <span class="work-meta">2019</span>
+        <span class="work-type">Paper</span>
+        <span class="work-arrow" aria-hidden="true">↗</span>
+      </a>
+      <a class="more-link" href="https://scholar.google.com/citations?user=qU-JFvMAAAAJ&amp;hl=en">All publications on Google Scholar ↗</a>
+    </div>
+  </section>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content | truncatewords: 100, "..." }}
-    <a href="{{ post.url }}">» Continue reading</a>
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
+  <section class="home-section ruled-section" id="writing" aria-labelledby="writing-title">
+    <h2 class="section-label" id="writing-title">Writing</h2>
+    <div class="section-content writing-list">
+      {% for post in site.posts limit:3 %}
+        <a class="writing-row" href="{{ post.url | relative_url }}">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+          <span>{{ post.title }}</span>
+        </a>
+      {% endfor %}
+      <a class="more-link" href="{{ '/archive/' | relative_url }}">Writing archive →</a>
+    </div>
+  </section>
+</main>

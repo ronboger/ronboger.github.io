@@ -21,6 +21,29 @@ bundle exec jekyll build
 
 The generated site is written to `_site/` and should not be edited directly.
 
+## Edit the site
+
+Most updates only require editing one Markdown or HTML file in a text editor:
+
+- Homepage wording: `index.html`
+- About page: `about.md`
+- Now page: `now.md`
+- Writing: files inside `_posts/`
+- Colors and typography: the variables at the top of `public/css/site.css`
+
+To add a post, create a Markdown file named `YYYY-MM-DD-short-title.md` inside `_posts/`. Start it with:
+
+```yaml
+---
+layout: post
+title: Your post title
+---
+```
+
+Write the post below that header using normal Markdown. The Writing page is generated automatically from `_posts/`, so it does not need to be updated separately.
+
+While `bundle exec jekyll serve` is running, save the file and refresh `http://127.0.0.1:4000` to see the change. Stop the local server with `Control-C` in the terminal.
+
 ## Site structure
 
 - `index.html` — homepage content and selected links

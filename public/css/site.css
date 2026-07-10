@@ -138,6 +138,15 @@ a:focus-visible {
   font-variant-numeric: tabular-nums;
 }
 
+.post-back {
+  margin-top: 2.5rem;
+}
+
+.post-back-top {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+}
+
 .content-page h2,
 .content-page h3 {
   margin: 2rem 0 0.55rem;

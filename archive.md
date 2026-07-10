@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Writing
 ---
 
 <section class="archive-post-list">
@@ -13,8 +13,10 @@ title: Archive
            <ul>
            {% assign myDate = currentDate %}
        {% endif %}
-       <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
+       <li><a href="{{ post.url | relative_url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> — {{ post.title }}</a></li>
        {% if forloop.last %}</ul>{% endif %}
    {% endfor %}
 
 </section>
+
+[← back home]({{ '/' | relative_url }})

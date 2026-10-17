@@ -10,3 +10,12 @@ i'm in the 4th year of my PhD in biophysics at uc berkeley, working in the doudn
 i'm always looking to meet introspective, curious, and kind people on my journey. if you know or are one of these, reach out at ronb - at - berkeley - dot - edu.
 
 *This update was written Jul 10th, 2026.*
+
+## Archives
+
+{% assign updates = site.nowArchives | sort: 'date' | reverse %}
+{% for update in updates %}
+- [{{ update.date | date: "%B %-d, %Y" }}]({{ update.url | relative_url }})
+{% endfor %}
+
+[← back home]({{ '/' | relative_url }})

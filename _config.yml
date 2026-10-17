@@ -28,3 +28,9 @@ plugins:
 gems: [jekyll-paginate]
 paginate: 2
 paginate_path: "page:num"
+
+# Previous Now updates, published separately from the writing archive.
+collections:
+  nowArchives:
+    output: true
+    permalink: /now/archive/:name/

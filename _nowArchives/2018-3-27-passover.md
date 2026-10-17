@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: now-archive
+date: 2018-03-27
 title: Abrupt return to SF
 ---
 
@@ -7,7 +8,7 @@ title: Abrupt return to SF
 
 I'm currently in route back to Baltimore, where I'm staying for a little while to celebrate Passover with my family. I shifted into an advisory role with a project I was working on, and am currently thinking through next steps.
 
-I had been in San Francisco the past few months, as I was flown out in mid-December from Argentinian Patagonia to interview with YC for an AI/drug discovery project. We didn't get into YC, and spent the last few months executing further on the project. We successfully managed to receive sizable term sheets from top VCs in the Bay Area; however at the critical juncture I realized continuing further was not the right next step for me. 
+I had been in San Francisco the past few months, as I was flown out in mid-December from Argentinian Patagonia to interview with YC for an AI/drug discovery project. We didn't get into YC, and spent the last few months executing further on the project. We successfully managed to receive sizable term sheets from top VCs in the Bay Area; however at the critical juncture I realized continuing further was not the right next step for me.
 
 So, I declined all the investor money and moved into an advisory role with the company. I felt this was the most ethical and correct thing to do for a variety of reasons. Initially I was afraid to make this move, as things were moving and investors were excited to get more involved. I could not have been more wrong here - as I explained the reasoning to investors, the decision was met with admiration and full support.
 

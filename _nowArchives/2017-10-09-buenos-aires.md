@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: now-archive
+date: 2017-10-09
 title: Reaching the city of Buenos Aires
 ---
 

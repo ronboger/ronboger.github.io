@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: now-archive
+date: 2017-11-20
 title: Now
 ---
 

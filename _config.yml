@@ -8,14 +8,14 @@ title:               Ron Boger
 # tagline:             'personal site + musings'
 tagline:             ''
 description:         'Notes on biology, computation, science, and other things.'
-url:                 https://ronboger.github.io
+url:                 https://ronboger.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Ron Boger
-  url:               https://ronboger.github.io
+  url:               https://ronboger.com
   email:             ronnyb@jhu.edu
 
 # Custom vars

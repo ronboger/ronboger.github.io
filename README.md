@@ -1,6 +1,6 @@
 # ronboger.github.io
 
-Ron Boger’s personal website, built with Jekyll and hosted with GitHub Pages at [ronboger.github.io](https://ronboger.github.io).
+Ron Boger’s personal website, built with Jekyll and hosted with GitHub Pages at [ronboger.com](https://ronboger.com).
 
 ## Run locally
 

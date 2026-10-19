@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Writing
+redirect_from: /archive/
 ---
 
 <section class="archive-post-list">

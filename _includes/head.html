@@ -14,4 +14,19 @@
 
   <link rel="icon" href="{{ '/public/plane.ico' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ '/atom.xml' | relative_url }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Ron Boger",
+    "url": "https://ronboger.com/",
+    "description": "Notes on biology, computation, science, and other things.",
+    "author": {
+      "@type": "Person",
+      "name": "Ron Boger",
+      "url": "https://ronboger.com/"
+    }
+  }
+  </script>
+  <meta property="og:site_name" content="{{ site.title }}">
 </head>
